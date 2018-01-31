@@ -1,0 +1,1157 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              Sketch.o (__addsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              Sketch.o (__ltsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              Sketch.o (__divsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              Sketch.o (__floatsisf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              Sketch.o (__mulsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                              Sketch.o (_ZN14HardwareSerial5beginEmh)
+D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                              Sketch.o (Serial)
+D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega328p.o (main)
+D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                              D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (_ZN5Print5writeEPKhj)
+D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                              Sketch.o (delay)
+D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                              Sketch.o (analogRead)
+D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                              Sketch.o (pinMode)
+D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                              Sketch.o (_ZN13LiquidCrystal9setCursorEhh)
+D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                              D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
+D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                              D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o) (yield)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__fixunssfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__gtsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                              D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__unordsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega328p.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              Sketch.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              Sketch.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                              Sketch.o (__do_global_ctors)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o) (__tablejump2__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+                              D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(abi.o) (abort)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 Sketch.o
+ .data          0x00000000        0x0 Sketch.o
+ .bss           0x00000000        0x0 Sketch.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .group         0x00000000        0x8 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .data          0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x00000000       0x44 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .group         0x00000000        0x8 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .group         0x00000000        0x8 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text          0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .data          0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .bss           0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text          0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .data          0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .bss           0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text.atexit   0x00000000        0x6 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text._Z8setupUSBv
+                0x00000000        0x2 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .group         0x00000000        0x8 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .data          0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .bss           0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000000       0x48 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x1c D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000       0x14 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEv
+                0x00000000        0x8 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000000       0x24 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x24 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPKc
+                0x00000000       0x24 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x24 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x24 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEhi
+                0x00000000        0xe D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x00000000       0x24 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x00000000       0x24 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x24 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEii
+                0x00000000       0x24 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x24 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x24 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0xc D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .data          0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .bss           0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text.millis   0x00000000       0x18 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text          0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .data          0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .bss           0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .text.analogReference
+                0x00000000        0x6 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .text.analogWrite
+                0x00000000       0xbe D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .text          0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .data          0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .group         0x00000000        0x8 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .group         0x00000000        0x8 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .group         0x00000000        0x8 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .group         0x00000000        0x8 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .group         0x00000000        0x8 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text          0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .data          0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .bss           0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal13setRowOffsetsEiiii
+                0x00000000       0x10 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal4homeEv
+                0x00000000        0xe D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal9noDisplayEv
+                0x00000000        0xe D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal4initEhhhhhhhhhhhh
+                0x00000000       0x58 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystalC2Ehhhhhhhhhhh
+                0x00000000       0x5a D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystalC2Ehhhhhhhhhh
+                0x00000000       0x5a D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystalC2Ehhhhhhh
+                0x00000000       0x42 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal8noCursorEv
+                0x00000000        0xe D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal6cursorEv
+                0x00000000       0x10 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal7noBlinkEv
+                0x00000000        0xe D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal5blinkEv
+                0x00000000       0x10 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal17scrollDisplayLeftEv
+                0x00000000        0x6 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal18scrollDisplayRightEv
+                0x00000000        0x6 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal11leftToRightEv
+                0x00000000       0x10 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal11rightToLeftEv
+                0x00000000        0xe D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal10autoscrollEv
+                0x00000000       0x10 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal12noAutoscrollEv
+                0x00000000        0xe D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal10createCharEhPh
+                0x00000000       0x50 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .text          0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .data          0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .bss           0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x4 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_deleted_virtual
+                0x00000000        0x4 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_info    0x00000000       0x76 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_abbrev  0x00000000       0x6d D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_aranges
+                0x00000000       0x20 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_ranges  0x00000000       0x10 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_line    0x00000000       0xa9 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_str     0x00000000      0x1a6 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .comment       0x00000000       0x31 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_frame   0x00000000       0x34 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text          0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .data          0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .bss           0x00000000        0x0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text.avr-libc
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega328p.o
+LOAD Sketch.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a
+END GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libatmega328p.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x160a
+ *(.vectors)
+ .vectors       0x00000000       0x68 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.digital_pin_to_timer_PGM
+                0x00000068       0x14 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000068                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x0000007c       0x14 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x0000007c                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x00000090       0x14 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000090                digital_pin_to_port_PGM
+ .progmem.data.port_to_input_PGM
+                0x000000a4        0xa D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000a4                port_to_input_PGM
+ .progmem.data.port_to_output_PGM
+                0x000000ae        0xa D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000ae                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x000000b8        0xa D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000b8                port_to_mode_PGM
+                0x000000c2                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000c2                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000000c2        0x2 Sketch.o
+ .ctors         0x000000c4        0x2 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000000c6                __ctors_end = .
+                0x000000c6                __dtors_start = .
+ *(.dtors)
+                0x000000c6                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000c6        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x000000c6                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000c6        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000d2       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x000000d2                __do_copy_data
+ .init4         0x000000e8       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x000000e8                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x000000f8       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                0x000000f8                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000010e        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000116        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x00000116                __vector_22
+                0x00000116                __vector_1
+                0x00000116                __vector_24
+                0x00000116                __vector_12
+                0x00000116                __bad_interrupt
+                0x00000116                __vector_6
+                0x00000116                __vector_3
+                0x00000116                __vector_23
+                0x00000116                __vector_25
+                0x00000116                __vector_11
+                0x00000116                __vector_13
+                0x00000116                __vector_17
+                0x00000116                __vector_7
+                0x00000116                __vector_5
+                0x00000116                __vector_4
+                0x00000116                __vector_9
+                0x00000116                __vector_2
+                0x00000116                __vector_21
+                0x00000116                __vector_15
+                0x00000116                __vector_8
+                0x00000116                __vector_14
+                0x00000116                __vector_10
+                0x00000116                __vector_20
+                0x0000011a                . = ALIGN (0x2)
+ *(.text.*)
+ .text.setup    0x0000011a       0x54 Sketch.o
+                0x0000011a                setup
+ .text.loop     0x0000016e      0x198 Sketch.o
+                0x0000016e                loop
+ .text.startup._GLOBAL__sub_I_buttonState
+                0x00000306       0x26 Sketch.o
+ .text.avr-libc.fplib
+                0x0000032c        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x0000032c                __subsf3
+                0x0000032e                __addsf3
+ .text.avr-libc.fplib
+                0x0000033a       0xcc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x0000035c                __addsf3x
+ .text.avr-libc.fplib
+                0x00000406        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x00000406                __nesf2
+                0x00000406                __eqsf2
+                0x00000406                __cmpsf2
+                0x00000406                __ltsf2
+                0x00000406                __lesf2
+ .text.avr-libc.fplib
+                0x00000410        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x00000410                __divsf3
+ .text.avr-libc.fplib
+                0x00000418       0xdc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x00000438                __divsf3x
+                0x0000043e                __divsf3_pse
+ .text.avr-libc.fplib
+                0x000004f4       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x000004f4                __floatunsisf
+                0x000004f8                __floatsisf
+ .text.avr-libc.fplib
+                0x0000056e       0x48 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x0000056e                __fp_cmp
+ .text.avr-libc.fplib
+                0x000005b6        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x000005b6                __fp_inf
+ .text.avr-libc.fplib
+                0x000005c2        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x000005c2                __fp_nan
+ .text.avr-libc.fplib
+                0x000005c8        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x000005c8                __fp_pscA
+ .text.avr-libc.fplib
+                0x000005d6        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x000005d6                __fp_pscB
+ .text.avr-libc.fplib
+                0x000005e4       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x000005e4                __fp_round
+ .text.avr-libc.fplib
+                0x00000606       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00000606                __fp_split3
+                0x00000616                __fp_splitA
+ .text.avr-libc.fplib
+                0x0000064a        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x0000064a                __fp_zero
+                0x0000064c                __fp_szero
+ .text.avr-libc.fplib
+                0x00000658        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x00000658                __mulsf3
+ .text.avr-libc.fplib
+                0x00000660       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x0000067e                __mulsf3x
+                0x00000684                __mulsf3_pse
+ .text._ZN14HardwareSerial9availableEv
+                0x00000732       0x18 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000732                _ZN14HardwareSerial9availableEv
+ .text._ZN14HardwareSerial4peekEv
+                0x0000074a       0x1c D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000074a                _ZN14HardwareSerial4peekEv
+ .text._ZN14HardwareSerial4readEv
+                0x00000766       0x28 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000766                _ZN14HardwareSerial4readEv
+ .text._ZN14HardwareSerial17availableForWriteEv
+                0x0000078e       0x1e D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000078e                _ZN14HardwareSerial17availableForWriteEv
+ .text._Z14serialEventRunv
+                0x000007ac       0x1c D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000007ac                _Z14serialEventRunv
+ .text._ZN14HardwareSerial17_tx_udr_empty_irqEv
+                0x000007c8       0x42 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000007c8                _ZN14HardwareSerial17_tx_udr_empty_irqEv
+ .text._ZN14HardwareSerial5writeEh
+                0x0000080a       0x8e D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000080a                _ZN14HardwareSerial5writeEh
+ .text._ZN14HardwareSerial5flushEv
+                0x00000898       0x44 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000898                _ZN14HardwareSerial5flushEv
+ .text._ZN14HardwareSerial5beginEmh
+                0x000008dc       0xca D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000008dc                _ZN14HardwareSerial5beginEmh
+ .text._ZN5Print17availableForWriteEv
+                0x000009a6        0x6 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000009a6                _ZN5Print17availableForWriteEv
+ .text._ZN5Print5flushEv
+                0x000009ac        0x2 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000009ac                _ZN5Print5flushEv
+ .text.__vector_18
+                0x000009ae       0x64 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000009ae                __vector_18
+ .text.__vector_19
+                0x00000a12       0x4c D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000a12                __vector_19
+ .text._Z17Serial0_availablev
+                0x00000a5e       0x14 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000a5e                _Z17Serial0_availablev
+ .text.startup._GLOBAL__sub_I___vector_18
+                0x00000a72       0x5a D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text.initVariant
+                0x00000acc        0x2 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000acc                initVariant
+ .text.startup.main
+                0x00000ace       0x1e D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000ace                main
+ .text._ZN5Print5writeEPKhj
+                0x00000aec       0x54 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000aec                _ZN5Print5writeEPKhj
+ .text._ZN5Print5writeEPKc
+                0x00000b40       0x2a D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000b40                _ZN5Print5writeEPKc
+ .text._ZN5Print5printEPKc
+                0x00000b6a        0x4 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000b6a                _ZN5Print5printEPKc
+ .text._ZN5Print5printEc
+                0x00000b6e        0xe D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000b6e                _ZN5Print5printEc
+ .text._ZN5Print11printNumberEmh
+                0x00000b7c       0x92 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000b7c                _ZN5Print11printNumberEmh
+ .text._ZN5Print5printEmi
+                0x00000c0e       0x1a D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000c0e                _ZN5Print5printEmi
+ .text._ZN5Print5printEji
+                0x00000c28        0xc D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000c28                _ZN5Print5printEji
+ .text._ZN5Print5printEli
+                0x00000c34       0x90 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000c34                _ZN5Print5printEli
+ .text._ZN5Print5printEii
+                0x00000cc4        0xe D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000cc4                _ZN5Print5printEii
+ .text._ZN5Print10printFloatEdh
+                0x00000cd2      0x1b6 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000cd2                _ZN5Print10printFloatEdh
+ .text._ZN5Print5printEdi
+                0x00000e88        0x4 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000e88                _ZN5Print5printEdi
+ .text.__vector_16
+                0x00000e8c       0x94 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000e8c                __vector_16
+ .text.micros   0x00000f20       0x4a D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000f20                micros
+ .text.delay    0x00000f6a       0x78 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000f6a                delay
+ .text.delayMicroseconds
+                0x00000fe2       0x16 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000fe2                delayMicroseconds
+ .text.init     0x00000ff8       0x76 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000ff8                init
+ .text.analogRead
+                0x0000106e       0x3a D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                0x0000106e                analogRead
+ .text.turnOffPWM
+                0x000010a8       0x52 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x000010fa       0x78 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000010fa                pinMode
+ .text.digitalWrite
+                0x00001172       0x5e D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00001172                digitalWrite
+ .text.digitalRead
+                0x000011d0       0x52 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000011d0                digitalRead
+ .text._ZN13LiquidCrystal11pulseEnableEv
+                0x00001222       0x3a D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x00001222                _ZN13LiquidCrystal11pulseEnableEv
+ .text._ZN13LiquidCrystal10write4bitsEh
+                0x0000125c       0x5a D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x0000125c                _ZN13LiquidCrystal10write4bitsEh
+ .text._ZN13LiquidCrystal10write8bitsEh
+                0x000012b6       0x5a D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x000012b6                _ZN13LiquidCrystal10write8bitsEh
+ .text._ZN13LiquidCrystal4sendEhh
+                0x00001310       0x52 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x00001310                _ZN13LiquidCrystal4sendEhh
+ .text._ZN13LiquidCrystal7commandEh
+                0x00001362        0x6 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x00001362                _ZN13LiquidCrystal7commandEh
+ .text._ZN13LiquidCrystal5clearEv
+                0x00001368        0xe D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x00001368                _ZN13LiquidCrystal5clearEv
+ .text._ZN13LiquidCrystal9setCursorEhh
+                0x00001376       0x26 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x00001376                _ZN13LiquidCrystal9setCursorEhh
+ .text._ZN13LiquidCrystal7displayEv
+                0x0000139c       0x10 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x0000139c                _ZN13LiquidCrystal7displayEv
+ .text._ZN13LiquidCrystal5beginEhhh
+                0x000013ac      0x14a D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x000013ac                _ZN13LiquidCrystal5beginEhhh
+ .text._ZN13LiquidCrystalC2Ehhhhhh
+                0x000014f6       0x40 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x000014f6                _ZN13LiquidCrystalC1Ehhhhhh
+                0x000014f6                _ZN13LiquidCrystalC2Ehhhhhh
+ .text._ZN13LiquidCrystal5writeEh
+                0x00001536        0xc D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x00001536                _ZN13LiquidCrystal5writeEh
+ .text.__empty  0x00001542        0x2 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                0x00001542                yield
+ .text.avr-libc.fplib
+                0x00001544       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x00001544                __fixunssfsi
+ .text.avr-libc.fplib
+                0x000015a2        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x000015a2                __gesf2
+                0x000015a2                __gtsf2
+ .text.avr-libc.fplib
+                0x000015ac        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                0x000015ac                __unordsf2
+ .text.libgcc.div
+                0x000015b6       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x000015b6                __udivmodsi4
+ .text.libgcc   0x000015fa        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x000015fa                __tablejump2__
+                0x00001606                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001606        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00001606                _exit
+                0x00001606                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001606        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000160a                _etext = .
+
+.data           0x00800100       0x4a load address 0x0000160a
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.y        0x00800100        0x2 Sketch.o
+                0x00800100                y
+ .data.x        0x00800102        0x2 Sketch.o
+                0x00800102                x
+ .data.analog_reference
+                0x00800104        0x1 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                0x00800104                analog_reference
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800105       0x18 Sketch.o
+ .rodata._ZTV14HardwareSerial
+                0x0080011d       0x12 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0080011d                _ZTV14HardwareSerial
+ .rodata.str1.1
+                0x0080012f        0xf D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .rodata._ZTV13LiquidCrystal
+                0x0080013e        0xc D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                0x0080013e                _ZTV13LiquidCrystal
+ *(.gnu.linkonce.d*)
+                0x0080014a                . = ALIGN (0x2)
+                0x0080014a                _edata = .
+                0x0080014a                PROVIDE (__data_end, .)
+
+.bss            0x0080014a       0xd0
+                0x0080014a                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.vout      0x0080014a        0x4 Sketch.o
+                0x0080014a                vout
+ .bss.tempf     0x0080014e        0x4 Sketch.o
+                0x0080014e                tempf
+ .bss.tempc     0x00800152        0x4 Sketch.o
+                0x00800152                tempc
+ .bss.lcd       0x00800156       0x18 Sketch.o
+                0x00800156                lcd
+ .bss.buttonState_set
+                0x0080016e        0x2 Sketch.o
+                0x0080016e                buttonState_set
+ .bss.buttonState_down
+                0x00800170        0x2 Sketch.o
+                0x00800170                buttonState_down
+ .bss.buttonState
+                0x00800172        0x2 Sketch.o
+                0x00800172                buttonState
+ .bss.Serial    0x00800174       0x9d D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00800174                Serial
+ .bss.timer0_fract
+                0x00800211        0x1 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .bss.timer0_millis
+                0x00800212        0x4 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00800212                timer0_millis
+ .bss.timer0_overflow_count
+                0x00800216        0x4 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00800216                timer0_overflow_count
+ *(COMMON)
+                0x0080021a                PROVIDE (__bss_end, .)
+                0x0000160a                __data_load_start = LOADADDR (.data)
+                0x00001654                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080021a        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x0080021a                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 Sketch.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .comment       0x00000030       0x31 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .comment       0x00000030       0x31 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .comment       0x00000030       0x31 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .comment       0x00000030       0x31 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .comment       0x00000030       0x31 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .comment       0x00000030       0x31 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .comment       0x00000030       0x31 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .comment       0x00000030       0x31 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x3f0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 Sketch.o
+ .debug_aranges
+                0x00000030       0x68 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_aranges
+                0x00000098       0x48 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_aranges
+                0x000000e0       0x30 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_aranges
+                0x00000110      0x100 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_aranges
+                0x00000210       0x48 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_aranges
+                0x00000258       0x30 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_aranges
+                0x00000288       0x38 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_aranges
+                0x000002c0      0x110 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .debug_aranges
+                0x000003d0       0x20 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x9904
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_info    0x000005f4      0x6ea Sketch.o
+ .debug_info    0x00000cde     0x1e89 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_info    0x00002b67     0x1b16 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_info    0x0000467d      0x237 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_info    0x000048b4     0x28ff D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_info    0x000071b3      0x2cb D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_info    0x0000747e      0x26d D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_info    0x000076eb      0x5fe D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_info    0x00007ce9     0x1bdd D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .debug_info    0x000098c6       0x3e D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_abbrev   0x00000000     0x1cfb
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2      0x217 Sketch.o
+ .debug_abbrev  0x000007b9      0x432 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_abbrev  0x00000beb      0x3ce D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_abbrev  0x00000fb9      0x12d D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_abbrev  0x000010e6      0x47a D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_abbrev  0x00001560      0x146 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_abbrev  0x000016a6      0x16b D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_abbrev  0x00001811      0x15b D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_abbrev  0x0000196c      0x365 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .debug_abbrev  0x00001cd1       0x2a D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_line     0x00000000     0x21f2
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x1a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_line    0x0000001a      0x2d9 Sketch.o
+ .debug_line    0x000002f3      0x426 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_line    0x00000719      0x28c D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_line    0x000009a5      0x165 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_line    0x00000b0a      0x685 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_line    0x0000118f      0x299 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_line    0x00001428      0x20f D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_line    0x00001637      0x252 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_line    0x00001889      0x928 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .debug_line    0x000021b1       0x41 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_frame    0x00000000      0xb50
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x54 Sketch.o
+ .debug_frame   0x00000054      0x110 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_frame   0x00000164       0xe0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_frame   0x00000244       0x54 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_frame   0x00000298      0x3ac D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_frame   0x00000644       0xc4 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_frame   0x00000708       0x54 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_frame   0x0000075c       0x7c D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_frame   0x000007d8      0x354 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .debug_frame   0x00000b2c       0x24 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_str      0x00000000     0x25e8
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_str     0x00000208      0x401 Sketch.o
+                                0x464 (size before relaxing)
+ .debug_str     0x00000609     0x131a D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                               0x15f4 (size before relaxing)
+ .debug_str     0x00001923       0x86 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                               0x1410 (size before relaxing)
+ .debug_str     0x000019a9       0x37 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                                0x2bc (size before relaxing)
+ .debug_str     0x000019e0      0x3ac D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                               0x124a (size before relaxing)
+ .debug_str     0x00001d8c      0x15c D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                                0x252 (size before relaxing)
+ .debug_str     0x00001ee8       0x67 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                                0x256 (size before relaxing)
+ .debug_str     0x00001f4f       0x9d D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                                0x2b7 (size before relaxing)
+ .debug_str     0x00001fec      0x5e0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+                                0x951 (size before relaxing)
+ .debug_str     0x000025cc       0x1c D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                                0x147 (size before relaxing)
+
+.debug_loc      0x00000000     0x4729
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x7b Sketch.o
+ .debug_loc     0x0000007b      0x482 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_loc     0x000004fd      0x1b0 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_loc     0x000006ad     0x1c87 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_loc     0x00002334      0x28d D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_loc     0x000025c1       0xfe D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_loc     0x000026bf      0x5fc D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_loc     0x00002cbb     0x1a6e D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x3f8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x20 Sketch.o
+ .debug_ranges  0x00000020       0x58 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_ranges  0x00000078       0x38 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_ranges  0x000000b0       0x20 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_ranges  0x000000d0      0x120 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_ranges  0x000001f0       0x38 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_ranges  0x00000228       0x20 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_ranges  0x00000248       0x28 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_ranges  0x00000270      0x178 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal.o)
+ .debug_ranges  0x000003e8       0x10 D:\DataSoft IOT\IoT Practicals\Arduino\LM35_LCD_on\LM35_LCD_on\LM35_LCD_on\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(LM35_LCD_on.elf elf32-avr)
+LOAD linker stubs

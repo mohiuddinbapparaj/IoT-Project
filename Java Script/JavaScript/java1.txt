@@ -1,0 +1,9 @@
+<html>
+
+	<script>
+		alert("Hey What's Up!");
+		document.write("Hellow!");
+	</script>
+
+
+</html>

@@ -1,0 +1,614 @@
+Wed Nov 15 2017 08:58:49 GMT+0600 (Bangladesh Standard Time), Line 1, 30.85 C
+Wed Nov 15 2017 08:58:50 GMT+0600 (Bangladesh Standard Time), Line 1, 15.69 C
+Wed Nov 15 2017 08:58:50 GMT+0600 (Bangladesh Standard Time), Line 2, 34.60 C
+Wed Nov 15 2017 08:58:51 GMT+0600 (Bangladesh Standard Time), Line 1, 61.78 C
+Wed Nov 15 2017 08:58:51 GMT+0600 (Bangladesh Standard Time), Line 3, 37.67 C
+Wed Nov 15 2017 08:58:52 GMT+0600 (Bangladesh Standard Time), Line 2, 83.16 C
+Wed Nov 15 2017 08:58:52 GMT+0600 (Bangladesh Standard Time), Line 4, 36.51 C
+Wed Nov 15 2017 08:58:53 GMT+0600 (Bangladesh Standard Time), Line 5, 40.81 C
+Wed Nov 15 2017 08:58:54 GMT+0600 (Bangladesh Standard Time), Line 2, 57.05 C
+Wed Nov 15 2017 08:58:54 GMT+0600 (Bangladesh Standard Time), Line 3, 73.86 C
+Wed Nov 15 2017 08:58:54 GMT+0600 (Bangladesh Standard Time), Line 6, 34.77 C
+Wed Nov 15 2017 08:58:55 GMT+0600 (Bangladesh Standard Time), Line 7, 43.74 C
+Wed Nov 15 2017 08:58:56 GMT+0600 (Bangladesh Standard Time), Line 4, 7.95 C
+Wed Nov 15 2017 08:58:56 GMT+0600 (Bangladesh Standard Time), Line 8, 39.44 C
+Wed Nov 15 2017 08:58:57 GMT+0600 (Bangladesh Standard Time), Line 3, 53.50 C
+Wed Nov 15 2017 08:58:57 GMT+0600 (Bangladesh Standard Time), Line 9, 34.16 C
+Wed Nov 15 2017 08:58:58 GMT+0600 (Bangladesh Standard Time), Line 5, 5.34 C
+Wed Nov 15 2017 08:58:58 GMT+0600 (Bangladesh Standard Time), Line 10, 40.48 C
+Wed Nov 15 2017 08:59:00 GMT+0600 (Bangladesh Standard Time), Line 4, 64.52 C
+Wed Nov 15 2017 08:59:00 GMT+0600 (Bangladesh Standard Time), Line 6, 43.11 C
+Wed Nov 15 2017 08:59:02 GMT+0600 (Bangladesh Standard Time), Line 7, 57.95 C
+Wed Nov 15 2017 08:59:03 GMT+0600 (Bangladesh Standard Time), Line 5, 94.06 C
+Wed Nov 15 2017 08:59:04 GMT+0600 (Bangladesh Standard Time), Line 8, 72.58 C
+Wed Nov 15 2017 08:59:06 GMT+0600 (Bangladesh Standard Time), Line 6, 73.31 C
+Wed Nov 15 2017 08:59:06 GMT+0600 (Bangladesh Standard Time), Line 9, 40.18 C
+Wed Nov 15 2017 08:59:08 GMT+0600 (Bangladesh Standard Time), Line 10, 65.83 C
+Wed Nov 15 2017 08:59:09 GMT+0600 (Bangladesh Standard Time), Line 7, 60.51 C
+Wed Nov 15 2017 08:59:12 GMT+0600 (Bangladesh Standard Time), Line 8, 43.75 C
+Wed Nov 15 2017 08:59:15 GMT+0600 (Bangladesh Standard Time), Line 9, 64.71 C
+Wed Nov 15 2017 08:59:18 GMT+0600 (Bangladesh Standard Time), Line 10, 89.59 C
+Wed Nov 15 2017 09:00:50 GMT+0600 (Bangladesh Standard Time), Line 1, 31.97 C
+Wed Nov 15 2017 09:00:51 GMT+0600 (Bangladesh Standard Time), Line 1, 94.88 C
+Wed Nov 15 2017 09:00:51 GMT+0600 (Bangladesh Standard Time), Line 2, 31.89 C
+Wed Nov 15 2017 09:00:52 GMT+0600 (Bangladesh Standard Time), Line 1, 58.50 C
+Wed Nov 15 2017 09:00:52 GMT+0600 (Bangladesh Standard Time), Line 3, 38.21 C
+Wed Nov 15 2017 09:00:53 GMT+0600 (Bangladesh Standard Time), Line 2, 32.57 C
+Wed Nov 15 2017 09:00:53 GMT+0600 (Bangladesh Standard Time), Line 4, 32.31 C
+Wed Nov 15 2017 09:00:54 GMT+0600 (Bangladesh Standard Time), Line 5, 44.33 C
+Wed Nov 15 2017 09:00:55 GMT+0600 (Bangladesh Standard Time), Line 2, 43.39 C
+Wed Nov 15 2017 09:00:55 GMT+0600 (Bangladesh Standard Time), Line 3, 97.87 C
+Wed Nov 15 2017 09:00:55 GMT+0600 (Bangladesh Standard Time), Line 6, 39.89 C
+Wed Nov 15 2017 09:00:56 GMT+0600 (Bangladesh Standard Time), Line 7, 32.92 C
+Wed Nov 15 2017 09:00:57 GMT+0600 (Bangladesh Standard Time), Line 4, 90.93 C
+Wed Nov 15 2017 09:00:57 GMT+0600 (Bangladesh Standard Time), Line 8, 37.53 C
+Wed Nov 15 2017 09:00:58 GMT+0600 (Bangladesh Standard Time), Line 3, 48.72 C
+Wed Nov 15 2017 09:00:58 GMT+0600 (Bangladesh Standard Time), Line 9, 40.54 C
+Wed Nov 15 2017 09:00:59 GMT+0600 (Bangladesh Standard Time), Line 5, 30.88 C
+Wed Nov 15 2017 09:00:59 GMT+0600 (Bangladesh Standard Time), Line 10, 39.62 C
+Wed Nov 15 2017 09:01:01 GMT+0600 (Bangladesh Standard Time), Line 4, 86.45 C
+Wed Nov 15 2017 09:01:01 GMT+0600 (Bangladesh Standard Time), Line 6, 75.83 C
+Wed Nov 15 2017 09:01:03 GMT+0600 (Bangladesh Standard Time), Line 7, 75.93 C
+Wed Nov 15 2017 09:01:04 GMT+0600 (Bangladesh Standard Time), Line 5, 91.54 C
+Wed Nov 15 2017 09:01:05 GMT+0600 (Bangladesh Standard Time), Line 8, 19.59 C
+Wed Nov 15 2017 09:01:07 GMT+0600 (Bangladesh Standard Time), Line 6, 40.59 C
+Wed Nov 15 2017 09:01:07 GMT+0600 (Bangladesh Standard Time), Line 9, 82.87 C
+Wed Nov 15 2017 09:01:09 GMT+0600 (Bangladesh Standard Time), Line 10, 22.06 C
+Wed Nov 15 2017 09:01:10 GMT+0600 (Bangladesh Standard Time), Line 7, 64.63 C
+Wed Nov 15 2017 09:01:13 GMT+0600 (Bangladesh Standard Time), Line 8, 99.43 C
+Wed Nov 15 2017 09:01:16 GMT+0600 (Bangladesh Standard Time), Line 9, 85.57 C
+Wed Nov 15 2017 09:01:19 GMT+0600 (Bangladesh Standard Time), Line 10, 60.15 C
+Wed Nov 15 2017 09:07:09 GMT+0600 (Bangladesh Standard Time), Line 1, 35.70 C
+Wed Nov 15 2017 09:07:10 GMT+0600 (Bangladesh Standard Time), Line 1, 15.71 C
+Wed Nov 15 2017 09:07:10 GMT+0600 (Bangladesh Standard Time), Line 2, 31.08 C
+Wed Nov 15 2017 09:07:11 GMT+0600 (Bangladesh Standard Time), Line 1, 86.34 C
+Wed Nov 15 2017 09:07:11 GMT+0600 (Bangladesh Standard Time), Line 3, 41.77 C
+Wed Nov 15 2017 09:07:12 GMT+0600 (Bangladesh Standard Time), Line 2, 97.42 C
+Wed Nov 15 2017 09:07:12 GMT+0600 (Bangladesh Standard Time), Line 4, 41.46 C
+Wed Nov 15 2017 09:07:13 GMT+0600 (Bangladesh Standard Time), Line 5, 42.39 C
+Wed Nov 15 2017 09:07:14 GMT+0600 (Bangladesh Standard Time), Line 2, 81.76 C
+Wed Nov 15 2017 09:07:14 GMT+0600 (Bangladesh Standard Time), Line 3, 88.99 C
+Wed Nov 15 2017 09:07:14 GMT+0600 (Bangladesh Standard Time), Line 6, 42.60 C
+Wed Nov 15 2017 09:07:15 GMT+0600 (Bangladesh Standard Time), Line 7, 42.46 C
+Wed Nov 15 2017 09:07:16 GMT+0600 (Bangladesh Standard Time), Line 4, 62.26 C
+Wed Nov 15 2017 09:07:16 GMT+0600 (Bangladesh Standard Time), Line 8, 33.76 C
+Wed Nov 15 2017 09:07:17 GMT+0600 (Bangladesh Standard Time), Line 3, 85.03 C
+Wed Nov 15 2017 09:07:17 GMT+0600 (Bangladesh Standard Time), Line 9, 43.29 C
+Wed Nov 15 2017 09:07:18 GMT+0600 (Bangladesh Standard Time), Line 5, 83.30 C
+Wed Nov 15 2017 09:07:18 GMT+0600 (Bangladesh Standard Time), Line 10, 43.10 C
+Wed Nov 15 2017 09:07:20 GMT+0600 (Bangladesh Standard Time), Line 4, 59.93 C
+Wed Nov 15 2017 09:07:20 GMT+0600 (Bangladesh Standard Time), Line 6, 97.32 C
+Wed Nov 15 2017 09:07:22 GMT+0600 (Bangladesh Standard Time), Line 7, 78.08 C
+Wed Nov 15 2017 09:07:23 GMT+0600 (Bangladesh Standard Time), Line 5, 86.69 C
+Wed Nov 15 2017 09:07:24 GMT+0600 (Bangladesh Standard Time), Line 8, 81.76 C
+Wed Nov 15 2017 09:07:26 GMT+0600 (Bangladesh Standard Time), Line 6, 76.07 C
+Wed Nov 15 2017 09:07:26 GMT+0600 (Bangladesh Standard Time), Line 9, 13.64 C
+Wed Nov 15 2017 09:07:28 GMT+0600 (Bangladesh Standard Time), Line 10, 9.93 C
+Wed Nov 15 2017 09:07:29 GMT+0600 (Bangladesh Standard Time), Line 7, 92.31 C
+Wed Nov 15 2017 09:07:32 GMT+0600 (Bangladesh Standard Time), Line 8, 64.86 C
+Wed Nov 15 2017 09:07:35 GMT+0600 (Bangladesh Standard Time), Line 9, 64.10 C
+Wed Nov 15 2017 09:07:38 GMT+0600 (Bangladesh Standard Time), Line 10, 86.16 C
+Wed Nov 15 2017 09:08:46 GMT+0600 (Bangladesh Standard Time), Line 1, 33.06 C
+Wed Nov 15 2017 09:08:47 GMT+0600 (Bangladesh Standard Time), Line 1, 66.37 C
+Wed Nov 15 2017 09:08:47 GMT+0600 (Bangladesh Standard Time), Line 2, 33.41 C
+Wed Nov 15 2017 09:08:48 GMT+0600 (Bangladesh Standard Time), Line 1, 63.89 C
+Wed Nov 15 2017 09:08:48 GMT+0600 (Bangladesh Standard Time), Line 3, 36.06 C
+Wed Nov 15 2017 09:08:49 GMT+0600 (Bangladesh Standard Time), Line 2, 70.63 C
+Wed Nov 15 2017 09:08:49 GMT+0600 (Bangladesh Standard Time), Line 4, 32.56 C
+Wed Nov 15 2017 09:08:50 GMT+0600 (Bangladesh Standard Time), Line 5, 30.77 C
+Wed Nov 15 2017 09:08:51 GMT+0600 (Bangladesh Standard Time), Line 2, 49.40 C
+Wed Nov 15 2017 09:08:51 GMT+0600 (Bangladesh Standard Time), Line 3, 6.75 C
+Wed Nov 15 2017 09:08:51 GMT+0600 (Bangladesh Standard Time), Line 6, 30.42 C
+Wed Nov 15 2017 09:08:52 GMT+0600 (Bangladesh Standard Time), Line 7, 30.72 C
+Wed Nov 15 2017 09:08:53 GMT+0600 (Bangladesh Standard Time), Line 4, 2.26 C
+Wed Nov 15 2017 09:08:53 GMT+0600 (Bangladesh Standard Time), Line 8, 37.68 C
+Wed Nov 15 2017 09:08:54 GMT+0600 (Bangladesh Standard Time), Line 3, 50.78 C
+Wed Nov 15 2017 09:08:54 GMT+0600 (Bangladesh Standard Time), Line 9, 44.82 C
+Wed Nov 15 2017 09:08:55 GMT+0600 (Bangladesh Standard Time), Line 5, 98.79 C
+Wed Nov 15 2017 09:08:55 GMT+0600 (Bangladesh Standard Time), Line 10, 42.53 C
+Wed Nov 15 2017 09:08:56 GMT+0600 (Bangladesh Standard Time), Line 11, 41.52 C
+Wed Nov 15 2017 09:08:57 GMT+0600 (Bangladesh Standard Time), Line 4, 52.09 C
+Wed Nov 15 2017 09:08:57 GMT+0600 (Bangladesh Standard Time), Line 6, 8.51 C
+Wed Nov 15 2017 09:08:57 GMT+0600 (Bangladesh Standard Time), Line 12, 42.11 C
+Wed Nov 15 2017 09:08:58 GMT+0600 (Bangladesh Standard Time), Line 13, 35.55 C
+Wed Nov 15 2017 09:08:59 GMT+0600 (Bangladesh Standard Time), Line 7, 80.54 C
+Wed Nov 15 2017 09:08:59 GMT+0600 (Bangladesh Standard Time), Line 14, 38.02 C
+Wed Nov 15 2017 09:09:00 GMT+0600 (Bangladesh Standard Time), Line 5, 56.23 C
+Wed Nov 15 2017 09:09:00 GMT+0600 (Bangladesh Standard Time), Line 15, 42.53 C
+Wed Nov 15 2017 09:09:01 GMT+0600 (Bangladesh Standard Time), Line 8, 53.86 C
+Wed Nov 15 2017 09:09:01 GMT+0600 (Bangladesh Standard Time), Line 16, 44.27 C
+Wed Nov 15 2017 09:09:02 GMT+0600 (Bangladesh Standard Time), Line 17, 32.33 C
+Wed Nov 15 2017 09:09:03 GMT+0600 (Bangladesh Standard Time), Line 6, 60.09 C
+Wed Nov 15 2017 09:09:03 GMT+0600 (Bangladesh Standard Time), Line 9, 31.80 C
+Wed Nov 15 2017 09:09:03 GMT+0600 (Bangladesh Standard Time), Line 18, 38.52 C
+Wed Nov 15 2017 09:09:04 GMT+0600 (Bangladesh Standard Time), Line 19, 36.46 C
+Wed Nov 15 2017 09:09:05 GMT+0600 (Bangladesh Standard Time), Line 10, 98.07 C
+Wed Nov 15 2017 09:09:05 GMT+0600 (Bangladesh Standard Time), Line 20, 37.26 C
+Wed Nov 15 2017 09:09:06 GMT+0600 (Bangladesh Standard Time), Line 7, 53.32 C
+Wed Nov 15 2017 09:09:06 GMT+0600 (Bangladesh Standard Time), Line 21, 30.54 C
+Wed Nov 15 2017 09:09:07 GMT+0600 (Bangladesh Standard Time), Line 11, 30.52 C
+Wed Nov 15 2017 09:09:07 GMT+0600 (Bangladesh Standard Time), Line 22, 30.70 C
+Wed Nov 15 2017 09:09:08 GMT+0600 (Bangladesh Standard Time), Line 23, 39.34 C
+Wed Nov 15 2017 09:09:09 GMT+0600 (Bangladesh Standard Time), Line 8, 54.60 C
+Wed Nov 15 2017 09:09:09 GMT+0600 (Bangladesh Standard Time), Line 12, 57.48 C
+Wed Nov 15 2017 09:09:09 GMT+0600 (Bangladesh Standard Time), Line 24, 42.17 C
+Wed Nov 15 2017 09:09:10 GMT+0600 (Bangladesh Standard Time), Line 25, 42.47 C
+Wed Nov 15 2017 09:09:11 GMT+0600 (Bangladesh Standard Time), Line 13, 62.33 C
+Wed Nov 15 2017 09:09:11 GMT+0600 (Bangladesh Standard Time), Line 26, 36.80 C
+Wed Nov 15 2017 09:09:12 GMT+0600 (Bangladesh Standard Time), Line 9, 84.73 C
+Wed Nov 15 2017 09:09:12 GMT+0600 (Bangladesh Standard Time), Line 27, 33.53 C
+Wed Nov 15 2017 09:09:13 GMT+0600 (Bangladesh Standard Time), Line 14, 93.86 C
+Wed Nov 15 2017 09:09:13 GMT+0600 (Bangladesh Standard Time), Line 28, 40.99 C
+Wed Nov 15 2017 09:09:14 GMT+0600 (Bangladesh Standard Time), Line 29, 31.12 C
+Wed Nov 15 2017 09:09:15 GMT+0600 (Bangladesh Standard Time), Line 10, 99.13 C
+Wed Nov 15 2017 09:09:15 GMT+0600 (Bangladesh Standard Time), Line 15, 91.70 C
+Wed Nov 15 2017 09:09:15 GMT+0600 (Bangladesh Standard Time), Line 30, 35.68 C
+Wed Nov 15 2017 09:09:16 GMT+0600 (Bangladesh Standard Time), Line 31, 39.87 C
+Wed Nov 15 2017 09:09:17 GMT+0600 (Bangladesh Standard Time), Line 16, 31.37 C
+Wed Nov 15 2017 09:09:17 GMT+0600 (Bangladesh Standard Time), Line 32, 32.98 C
+Wed Nov 15 2017 09:09:18 GMT+0600 (Bangladesh Standard Time), Line 11, 93.88 C
+Wed Nov 15 2017 09:09:18 GMT+0600 (Bangladesh Standard Time), Line 33, 38.58 C
+Wed Nov 15 2017 09:09:19 GMT+0600 (Bangladesh Standard Time), Line 17, 66.33 C
+Wed Nov 15 2017 09:09:19 GMT+0600 (Bangladesh Standard Time), Line 34, 36.79 C
+Wed Nov 15 2017 09:09:20 GMT+0600 (Bangladesh Standard Time), Line 35, 37.48 C
+Wed Nov 15 2017 09:09:21 GMT+0600 (Bangladesh Standard Time), Line 12, 56.51 C
+Wed Nov 15 2017 09:09:21 GMT+0600 (Bangladesh Standard Time), Line 18, 93.12 C
+Wed Nov 15 2017 09:09:21 GMT+0600 (Bangladesh Standard Time), Line 36, 42.07 C
+Wed Nov 15 2017 09:09:22 GMT+0600 (Bangladesh Standard Time), Line 37, 37.07 C
+Wed Nov 15 2017 09:09:23 GMT+0600 (Bangladesh Standard Time), Line 19, 17.80 C
+Wed Nov 15 2017 09:09:23 GMT+0600 (Bangladesh Standard Time), Line 38, 37.41 C
+Wed Nov 15 2017 09:09:24 GMT+0600 (Bangladesh Standard Time), Line 13, 48.71 C
+Wed Nov 15 2017 09:09:24 GMT+0600 (Bangladesh Standard Time), Line 39, 30.45 C
+Wed Nov 15 2017 09:15:23 GMT+0600 (Bangladesh Standard Time), Line 1, 31.72 C
+Wed Nov 15 2017 09:15:24 GMT+0600 (Bangladesh Standard Time), Line 1, 82.80 
+Wed Nov 15 2017 09:15:24 GMT+0600 (Bangladesh Standard Time), Line 2, 33.69 C
+Wed Nov 15 2017 09:15:25 GMT+0600 (Bangladesh Standard Time), Line 1, 67.41 %
+Wed Nov 15 2017 09:15:25 GMT+0600 (Bangladesh Standard Time), Line 3, 33.65 C
+Wed Nov 15 2017 09:15:26 GMT+0600 (Bangladesh Standard Time), Line 2, 94.38 
+Wed Nov 15 2017 09:15:26 GMT+0600 (Bangladesh Standard Time), Line 4, 37.60 C
+Wed Nov 15 2017 09:15:27 GMT+0600 (Bangladesh Standard Time), Line 5, 39.13 C
+Wed Nov 15 2017 09:15:28 GMT+0600 (Bangladesh Standard Time), Line 2, 72.27 %
+Wed Nov 15 2017 09:15:28 GMT+0600 (Bangladesh Standard Time), Line 3, 65.99 
+Wed Nov 15 2017 09:15:28 GMT+0600 (Bangladesh Standard Time), Line 6, 41.37 C
+Wed Nov 15 2017 09:15:29 GMT+0600 (Bangladesh Standard Time), Line 7, 32.52 C
+Wed Nov 15 2017 09:15:30 GMT+0600 (Bangladesh Standard Time), Line 4, 27.38 
+Wed Nov 15 2017 09:15:30 GMT+0600 (Bangladesh Standard Time), Line 8, 39.32 C
+Wed Nov 15 2017 09:15:31 GMT+0600 (Bangladesh Standard Time), Line 3, 75.92 %
+Wed Nov 15 2017 09:15:31 GMT+0600 (Bangladesh Standard Time), Line 9, 32.43 C
+Wed Nov 15 2017 09:15:32 GMT+0600 (Bangladesh Standard Time), Line 5, 96.31 
+Wed Nov 15 2017 09:15:33 GMT+0600 (Bangladesh Standard Time), Line 10, 42.42 C
+Wed Nov 15 2017 09:15:34 GMT+0600 (Bangladesh Standard Time), Line 11, 38.25 C
+Wed Nov 15 2017 09:15:34 GMT+0600 (Bangladesh Standard Time), Line 4, 48.56 %
+Wed Nov 15 2017 09:15:34 GMT+0600 (Bangladesh Standard Time), Line 6, 62.75 
+Wed Nov 15 2017 09:15:35 GMT+0600 (Bangladesh Standard Time), Line 12, 41.40 C
+Wed Nov 15 2017 09:15:36 GMT+0600 (Bangladesh Standard Time), Line 13, 38.66 C
+Wed Nov 15 2017 09:15:36 GMT+0600 (Bangladesh Standard Time), Line 7, 71.11 
+Wed Nov 15 2017 09:15:37 GMT+0600 (Bangladesh Standard Time), Line 14, 37.68 C
+Wed Nov 15 2017 09:15:37 GMT+0600 (Bangladesh Standard Time), Line 5, 45.37 %
+Wed Nov 15 2017 09:15:38 GMT+0600 (Bangladesh Standard Time), Line 15, 44.14 C
+Wed Nov 15 2017 09:15:38 GMT+0600 (Bangladesh Standard Time), Line 8, 28.26 
+Wed Nov 15 2017 09:15:39 GMT+0600 (Bangladesh Standard Time), Line 16, 35.56 C
+Wed Nov 15 2017 09:15:40 GMT+0600 (Bangladesh Standard Time), Line 17, 30.76 C
+Wed Nov 15 2017 09:15:40 GMT+0600 (Bangladesh Standard Time), Line 6, 87.01 %
+Wed Nov 15 2017 09:15:40 GMT+0600 (Bangladesh Standard Time), Line 9, 2.51 
+Wed Nov 15 2017 09:15:41 GMT+0600 (Bangladesh Standard Time), Line 18, 35.33 C
+Wed Nov 15 2017 09:15:42 GMT+0600 (Bangladesh Standard Time), Line 19, 31.95 C
+Wed Nov 15 2017 09:15:42 GMT+0600 (Bangladesh Standard Time), Line 10, 4.48 
+Wed Nov 15 2017 09:15:43 GMT+0600 (Bangladesh Standard Time), Line 20, 34.04 C
+Wed Nov 15 2017 09:15:43 GMT+0600 (Bangladesh Standard Time), Line 7, 72.18 %
+Wed Nov 15 2017 09:15:44 GMT+0600 (Bangladesh Standard Time), Line 21, 42.55 C
+Wed Nov 15 2017 09:15:45 GMT+0600 (Bangladesh Standard Time), Line 11, 59.13 
+Wed Nov 15 2017 09:15:45 GMT+0600 (Bangladesh Standard Time), Line 22, 31.14 C
+Wed Nov 15 2017 09:15:46 GMT+0600 (Bangladesh Standard Time), Line 23, 31.86 C
+Wed Nov 15 2017 09:15:46 GMT+0600 (Bangladesh Standard Time), Line 8, 83.91 %
+Wed Nov 15 2017 09:15:47 GMT+0600 (Bangladesh Standard Time), Line 12, 47.40 
+Wed Nov 15 2017 09:15:47 GMT+0600 (Bangladesh Standard Time), Line 24, 30.91 C
+Wed Nov 15 2017 09:15:48 GMT+0600 (Bangladesh Standard Time), Line 25, 34.99 C
+Wed Nov 15 2017 09:15:49 GMT+0600 (Bangladesh Standard Time), Line 13, 21.66 
+Wed Nov 15 2017 09:15:49 GMT+0600 (Bangladesh Standard Time), Line 26, 31.69 C
+Wed Nov 15 2017 09:15:49 GMT+0600 (Bangladesh Standard Time), Line 9, 88.94 %
+Wed Nov 15 2017 09:15:50 GMT+0600 (Bangladesh Standard Time), Line 27, 36.11 C
+Wed Nov 15 2017 09:15:51 GMT+0600 (Bangladesh Standard Time), Line 14, 16.38 
+Wed Nov 15 2017 09:15:51 GMT+0600 (Bangladesh Standard Time), Line 28, 41.27 C
+Wed Nov 15 2017 09:15:52 GMT+0600 (Bangladesh Standard Time), Line 29, 32.33 C
+Wed Nov 15 2017 09:15:52 GMT+0600 (Bangladesh Standard Time), Line 10, 40.56 %
+Wed Nov 15 2017 09:15:53 GMT+0600 (Bangladesh Standard Time), Line 15, 27.47 
+Wed Nov 15 2017 09:15:53 GMT+0600 (Bangladesh Standard Time), Line 30, 39.25 C
+Wed Nov 15 2017 09:15:54 GMT+0600 (Bangladesh Standard Time), Line 31, 41.96 C
+Wed Nov 15 2017 09:15:55 GMT+0600 (Bangladesh Standard Time), Line 16, 67.58 
+Wed Nov 15 2017 09:15:55 GMT+0600 (Bangladesh Standard Time), Line 32, 35.08 C
+Wed Nov 15 2017 09:15:55 GMT+0600 (Bangladesh Standard Time), Line 11, 52.83 %
+Wed Nov 15 2017 09:15:56 GMT+0600 (Bangladesh Standard Time), Line 33, 42.63 C
+Wed Nov 15 2017 09:15:57 GMT+0600 (Bangladesh Standard Time), Line 17, 3.45 
+Wed Nov 15 2017 09:15:57 GMT+0600 (Bangladesh Standard Time), Line 34, 43.24 C
+Wed Nov 15 2017 09:15:58 GMT+0600 (Bangladesh Standard Time), Line 35, 40.09 C
+Wed Nov 15 2017 09:15:59 GMT+0600 (Bangladesh Standard Time), Line 12, 67.38 %
+Wed Nov 15 2017 09:15:59 GMT+0600 (Bangladesh Standard Time), Line 18, 44.11 
+Wed Nov 15 2017 09:15:59 GMT+0600 (Bangladesh Standard Time), Line 36, 30.21 C
+Wed Nov 15 2017 09:16:00 GMT+0600 (Bangladesh Standard Time), Line 37, 31.45 C
+Wed Nov 15 2017 09:16:01 GMT+0600 (Bangladesh Standard Time), Line 19, 68.08 
+Wed Nov 15 2017 09:16:01 GMT+0600 (Bangladesh Standard Time), Line 38, 32.20 C
+Wed Nov 15 2017 09:16:02 GMT+0600 (Bangladesh Standard Time), Line 13, 60.99 %
+Wed Nov 15 2017 09:16:02 GMT+0600 (Bangladesh Standard Time), Line 39, 44.85 C
+Wed Nov 15 2017 09:16:03 GMT+0600 (Bangladesh Standard Time), Line 20, 15.76 
+Wed Nov 15 2017 09:16:03 GMT+0600 (Bangladesh Standard Time), Line 40, 34.60 C
+Wed Nov 15 2017 09:16:04 GMT+0600 (Bangladesh Standard Time), Line 41, 30.03 C
+Wed Nov 15 2017 09:16:05 GMT+0600 (Bangladesh Standard Time), Line 14, 59.34 %
+Wed Nov 15 2017 09:16:05 GMT+0600 (Bangladesh Standard Time), Line 21, 50.65 
+Wed Nov 15 2017 09:16:05 GMT+0600 (Bangladesh Standard Time), Line 42, 37.92 C
+Wed Nov 15 2017 09:16:06 GMT+0600 (Bangladesh Standard Time), Line 43, 36.44 C
+Wed Nov 15 2017 09:16:07 GMT+0600 (Bangladesh Standard Time), Line 22, 53.43 
+Wed Nov 15 2017 09:16:07 GMT+0600 (Bangladesh Standard Time), Line 44, 42.53 C
+Wed Nov 15 2017 09:16:08 GMT+0600 (Bangladesh Standard Time), Line 15, 49.97 %
+Wed Nov 15 2017 09:16:08 GMT+0600 (Bangladesh Standard Time), Line 45, 33.16 C
+Wed Nov 15 2017 09:16:09 GMT+0600 (Bangladesh Standard Time), Line 23, 65.53 
+Wed Nov 15 2017 09:16:09 GMT+0600 (Bangladesh Standard Time), Line 46, 43.89 C
+Wed Nov 15 2017 09:16:10 GMT+0600 (Bangladesh Standard Time), Line 47, 36.53 C
+Wed Nov 15 2017 09:16:11 GMT+0600 (Bangladesh Standard Time), Line 16, 48.54 %
+Wed Nov 15 2017 09:16:11 GMT+0600 (Bangladesh Standard Time), Line 24, 45.51 
+Wed Nov 15 2017 09:16:11 GMT+0600 (Bangladesh Standard Time), Line 48, 31.65 C
+Wed Nov 15 2017 09:16:12 GMT+0600 (Bangladesh Standard Time), Line 49, 34.11 C
+Wed Nov 15 2017 09:16:13 GMT+0600 (Bangladesh Standard Time), Line 25, 18.78 
+Wed Nov 15 2017 09:16:13 GMT+0600 (Bangladesh Standard Time), Line 50, 36.96 C
+Wed Nov 15 2017 09:16:14 GMT+0600 (Bangladesh Standard Time), Line 17, 88.84 %
+Wed Nov 15 2017 09:16:14 GMT+0600 (Bangladesh Standard Time), Line 51, 39.33 C
+Wed Nov 15 2017 09:16:15 GMT+0600 (Bangladesh Standard Time), Line 26, 11.50 
+Wed Nov 15 2017 09:16:15 GMT+0600 (Bangladesh Standard Time), Line 52, 30.79 C
+Wed Nov 15 2017 09:16:16 GMT+0600 (Bangladesh Standard Time), Line 53, 30.32 C
+Wed Nov 15 2017 09:16:17 GMT+0600 (Bangladesh Standard Time), Line 18, 77.45 %
+Wed Nov 15 2017 09:16:17 GMT+0600 (Bangladesh Standard Time), Line 27, 87.30 
+Wed Nov 15 2017 09:16:17 GMT+0600 (Bangladesh Standard Time), Line 54, 43.09 C
+Wed Nov 15 2017 09:16:18 GMT+0600 (Bangladesh Standard Time), Line 55, 41.19 C
+Wed Nov 15 2017 09:16:19 GMT+0600 (Bangladesh Standard Time), Line 28, 72.11 
+Wed Nov 15 2017 09:16:19 GMT+0600 (Bangladesh Standard Time), Line 56, 38.35 C
+Wed Nov 15 2017 09:16:20 GMT+0600 (Bangladesh Standard Time), Line 19, 49.69 %
+Wed Nov 15 2017 09:16:20 GMT+0600 (Bangladesh Standard Time), Line 57, 33.05 C
+Wed Nov 15 2017 09:16:21 GMT+0600 (Bangladesh Standard Time), Line 29, 75.89 
+Wed Nov 15 2017 09:16:21 GMT+0600 (Bangladesh Standard Time), Line 58, 40.37 C
+Wed Nov 15 2017 09:16:22 GMT+0600 (Bangladesh Standard Time), Line 59, 35.71 C
+Wed Nov 15 2017 09:16:23 GMT+0600 (Bangladesh Standard Time), Line 20, 61.10 %
+Wed Nov 15 2017 09:16:23 GMT+0600 (Bangladesh Standard Time), Line 30, 8.81 
+Wed Nov 15 2017 09:16:23 GMT+0600 (Bangladesh Standard Time), Line 60, 43.07 C
+Wed Nov 15 2017 09:16:24 GMT+0600 (Bangladesh Standard Time), Line 61, 42.12 C
+Wed Nov 15 2017 09:16:25 GMT+0600 (Bangladesh Standard Time), Line 31, 62.38 
+Wed Nov 15 2017 09:16:25 GMT+0600 (Bangladesh Standard Time), Line 62, 36.10 C
+Wed Nov 15 2017 09:16:26 GMT+0600 (Bangladesh Standard Time), Line 21, 49.80 %
+Wed Nov 15 2017 09:16:26 GMT+0600 (Bangladesh Standard Time), Line 63, 33.25 C
+Wed Nov 15 2017 09:16:27 GMT+0600 (Bangladesh Standard Time), Line 32, 18.52 
+Wed Nov 15 2017 09:16:27 GMT+0600 (Bangladesh Standard Time), Line 64, 35.58 C
+Wed Nov 15 2017 09:16:28 GMT+0600 (Bangladesh Standard Time), Line 65, 39.19 C
+Wed Nov 15 2017 09:16:29 GMT+0600 (Bangladesh Standard Time), Line 22, 42.84 %
+Wed Nov 15 2017 09:16:29 GMT+0600 (Bangladesh Standard Time), Line 33, 23.40 
+Wed Nov 15 2017 09:16:29 GMT+0600 (Bangladesh Standard Time), Line 66, 38.44 C
+Wed Nov 15 2017 09:16:30 GMT+0600 (Bangladesh Standard Time), Line 67, 37.26 C
+Wed Nov 15 2017 09:16:31 GMT+0600 (Bangladesh Standard Time), Line 34, 5.84 
+Wed Nov 15 2017 09:16:31 GMT+0600 (Bangladesh Standard Time), Line 68, 36.39 C
+Wed Nov 15 2017 09:16:32 GMT+0600 (Bangladesh Standard Time), Line 23, 59.55 %
+Wed Nov 15 2017 09:16:32 GMT+0600 (Bangladesh Standard Time), Line 69, 36.78 C
+Wed Nov 15 2017 09:16:33 GMT+0600 (Bangladesh Standard Time), Line 35, 6.92 
+Wed Nov 15 2017 09:16:33 GMT+0600 (Bangladesh Standard Time), Line 70, 38.61 C
+Wed Nov 15 2017 09:16:34 GMT+0600 (Bangladesh Standard Time), Line 71, 32.53 C
+Wed Nov 15 2017 09:16:35 GMT+0600 (Bangladesh Standard Time), Line 24, 59.05 %
+Wed Nov 15 2017 09:16:35 GMT+0600 (Bangladesh Standard Time), Line 36, 61.43 
+Wed Nov 15 2017 09:16:35 GMT+0600 (Bangladesh Standard Time), Line 72, 33.91 C
+Wed Nov 15 2017 09:16:36 GMT+0600 (Bangladesh Standard Time), Line 73, 43.86 C
+Wed Nov 15 2017 09:16:37 GMT+0600 (Bangladesh Standard Time), Line 37, 29.19 
+Wed Nov 15 2017 09:16:37 GMT+0600 (Bangladesh Standard Time), Line 74, 33.41 C
+Wed Nov 15 2017 09:16:38 GMT+0600 (Bangladesh Standard Time), Line 25, 80.03 %
+Wed Nov 15 2017 09:16:38 GMT+0600 (Bangladesh Standard Time), Line 75, 34.54 C
+Wed Nov 15 2017 09:16:39 GMT+0600 (Bangladesh Standard Time), Line 38, 87.56 
+Wed Nov 15 2017 09:16:39 GMT+0600 (Bangladesh Standard Time), Line 76, 44.75 C
+Wed Nov 15 2017 09:16:40 GMT+0600 (Bangladesh Standard Time), Line 77, 32.62 C
+Wed Nov 15 2017 09:16:41 GMT+0600 (Bangladesh Standard Time), Line 26, 60.31 %
+Wed Nov 15 2017 09:16:41 GMT+0600 (Bangladesh Standard Time), Line 39, 24.79 
+Wed Nov 15 2017 09:16:41 GMT+0600 (Bangladesh Standard Time), Line 78, 38.45 C
+Wed Nov 15 2017 09:16:42 GMT+0600 (Bangladesh Standard Time), Line 79, 33.09 C
+Wed Nov 15 2017 09:16:43 GMT+0600 (Bangladesh Standard Time), Line 40, 69.01 
+Wed Nov 15 2017 09:16:43 GMT+0600 (Bangladesh Standard Time), Line 80, 30.52 C
+Wed Nov 15 2017 09:16:44 GMT+0600 (Bangladesh Standard Time), Line 27, 59.51 %
+Wed Nov 15 2017 09:16:44 GMT+0600 (Bangladesh Standard Time), Line 81, 30.00 C
+Wed Nov 15 2017 09:16:45 GMT+0600 (Bangladesh Standard Time), Line 41, 47.60 
+Wed Nov 15 2017 09:16:45 GMT+0600 (Bangladesh Standard Time), Line 82, 40.64 C
+Wed Nov 15 2017 09:16:46 GMT+0600 (Bangladesh Standard Time), Line 83, 32.49 C
+Wed Nov 15 2017 09:16:47 GMT+0600 (Bangladesh Standard Time), Line 28, 67.58 %
+Wed Nov 15 2017 09:16:47 GMT+0600 (Bangladesh Standard Time), Line 42, 58.75 
+Wed Nov 15 2017 09:16:47 GMT+0600 (Bangladesh Standard Time), Line 84, 32.35 C
+Wed Nov 15 2017 09:16:48 GMT+0600 (Bangladesh Standard Time), Line 85, 36.41 C
+Wed Nov 15 2017 09:16:49 GMT+0600 (Bangladesh Standard Time), Line 43, 42.40 
+Wed Nov 15 2017 09:16:49 GMT+0600 (Bangladesh Standard Time), Line 86, 36.97 C
+Wed Nov 15 2017 09:16:50 GMT+0600 (Bangladesh Standard Time), Line 29, 67.24 %
+Wed Nov 15 2017 09:16:50 GMT+0600 (Bangladesh Standard Time), Line 87, 31.63 C
+Wed Nov 15 2017 09:16:51 GMT+0600 (Bangladesh Standard Time), Line 44, 39.75 
+Wed Nov 15 2017 09:16:51 GMT+0600 (Bangladesh Standard Time), Line 88, 31.44 C
+Wed Nov 15 2017 09:16:52 GMT+0600 (Bangladesh Standard Time), Line 89, 42.85 C
+Wed Nov 15 2017 09:16:53 GMT+0600 (Bangladesh Standard Time), Line 30, 88.66 %
+Wed Nov 15 2017 09:16:53 GMT+0600 (Bangladesh Standard Time), Line 45, 3.37 
+Wed Nov 15 2017 09:16:53 GMT+0600 (Bangladesh Standard Time), Line 90, 41.26 C
+Wed Nov 15 2017 09:16:54 GMT+0600 (Bangladesh Standard Time), Line 91, 32.86 C
+Wed Nov 15 2017 09:16:55 GMT+0600 (Bangladesh Standard Time), Line 46, 64.95 
+Wed Nov 15 2017 09:16:55 GMT+0600 (Bangladesh Standard Time), Line 92, 42.75 C
+Wed Nov 15 2017 09:16:56 GMT+0600 (Bangladesh Standard Time), Line 31, 79.14 %
+Wed Nov 15 2017 09:16:56 GMT+0600 (Bangladesh Standard Time), Line 93, 42.45 C
+Wed Nov 15 2017 09:16:57 GMT+0600 (Bangladesh Standard Time), Line 47, 4.94 
+Wed Nov 15 2017 09:16:57 GMT+0600 (Bangladesh Standard Time), Line 94, 42.69 C
+Wed Nov 15 2017 09:16:58 GMT+0600 (Bangladesh Standard Time), Line 95, 42.55 C
+Wed Nov 15 2017 09:16:59 GMT+0600 (Bangladesh Standard Time), Line 32, 90.15 %
+Wed Nov 15 2017 09:16:59 GMT+0600 (Bangladesh Standard Time), Line 48, 31.37 
+Wed Nov 15 2017 09:16:59 GMT+0600 (Bangladesh Standard Time), Line 96, 32.36 C
+Wed Nov 15 2017 09:17:00 GMT+0600 (Bangladesh Standard Time), Line 97, 36.78 C
+Wed Nov 15 2017 09:17:01 GMT+0600 (Bangladesh Standard Time), Line 49, 65.86 
+Wed Nov 15 2017 09:17:01 GMT+0600 (Bangladesh Standard Time), Line 98, 37.67 C
+Wed Nov 15 2017 09:17:02 GMT+0600 (Bangladesh Standard Time), Line 33, 74.07 %
+Wed Nov 15 2017 09:17:02 GMT+0600 (Bangladesh Standard Time), Line 99, 44.50 C
+Wed Nov 15 2017 09:17:03 GMT+0600 (Bangladesh Standard Time), Line 50, 87.85 
+Wed Nov 15 2017 09:17:03 GMT+0600 (Bangladesh Standard Time), 
+Wed Nov 15 2017 09:17:05 GMT+0600 (Bangladesh Standard Time), Line 34, 67.99 %
+Wed Nov 15 2017 09:17:05 GMT+0600 (Bangladesh Standard Time), Line 51, 61.81 
+Wed Nov 15 2017 09:17:07 GMT+0600 (Bangladesh Standard Time), Line 52, 65.51 
+Wed Nov 15 2017 09:17:08 GMT+0600 (Bangladesh Standard Time), Line 35, 57.18 %
+Wed Nov 15 2017 09:17:09 GMT+0600 (Bangladesh Standard Time), Line 53, 69.64 
+Wed Nov 15 2017 09:17:11 GMT+0600 (Bangladesh Standard Time), Line 36, 52.28 %
+Wed Nov 15 2017 09:17:11 GMT+0600 (Bangladesh Standard Time), Line 54, 81.28 
+Wed Nov 15 2017 09:17:13 GMT+0600 (Bangladesh Standard Time), Line 55, 48.83 
+Wed Nov 15 2017 09:17:14 GMT+0600 (Bangladesh Standard Time), Line 37, 83.91 %
+Wed Nov 15 2017 09:17:15 GMT+0600 (Bangladesh Standard Time), Line 56, 43.58 
+Wed Nov 15 2017 09:17:17 GMT+0600 (Bangladesh Standard Time), Line 38, 50.31 %
+Wed Nov 15 2017 09:17:17 GMT+0600 (Bangladesh Standard Time), Line 57, 49.85 
+Wed Nov 15 2017 09:17:19 GMT+0600 (Bangladesh Standard Time), Line 58, 21.61 
+Wed Nov 15 2017 09:17:20 GMT+0600 (Bangladesh Standard Time), Line 39, 75.17 %
+Wed Nov 15 2017 09:17:21 GMT+0600 (Bangladesh Standard Time), Line 59, 77.71 
+Wed Nov 15 2017 09:17:23 GMT+0600 (Bangladesh Standard Time), Line 40, 97.87 %
+Wed Nov 15 2017 09:17:23 GMT+0600 (Bangladesh Standard Time), Line 60, 22.57 
+Wed Nov 15 2017 09:17:25 GMT+0600 (Bangladesh Standard Time), Line 61, 75.88 
+Wed Nov 15 2017 09:17:26 GMT+0600 (Bangladesh Standard Time), Line 41, 67.46 %
+Wed Nov 15 2017 09:17:27 GMT+0600 (Bangladesh Standard Time), Line 62, 98.93 
+Wed Nov 15 2017 09:17:29 GMT+0600 (Bangladesh Standard Time), Line 42, humidity reding71.46 %
+Wed Nov 15 2017 09:17:29 GMT+0600 (Bangladesh Standard Time), Line 63, accelorometer reading39.94 
+Wed Nov 15 2017 09:17:29 GMT+0600 (Bangladesh Standard Time), Line 1, temperature reading35.91 C
+Wed Nov 15 2017 09:17:30 GMT+0600 (Bangladesh Standard Time), Line 1, accelorometer reading64.75 
+Wed Nov 15 2017 09:17:30 GMT+0600 (Bangladesh Standard Time), Line 2, temperature reading33.07 C
+Wed Nov 15 2017 09:17:31 GMT+0600 (Bangladesh Standard Time), Line 1, humidity reding48.46 %
+Wed Nov 15 2017 09:17:31 GMT+0600 (Bangladesh Standard Time), Line 3, temperature reading38.19 C
+Wed Nov 15 2017 09:17:31 GMT+0600 (Bangladesh Standard Time), Line 64, accelorometer reading47.99 
+Wed Nov 15 2017 09:17:32 GMT+0600 (Bangladesh Standard Time), Line 43, humidity reding70.89 %
+Wed Nov 15 2017 09:17:32 GMT+0600 (Bangladesh Standard Time), Line 2, accelorometer reading79.45 
+Wed Nov 15 2017 09:17:32 GMT+0600 (Bangladesh Standard Time), Line 4, temperature reading38.01 C
+Wed Nov 15 2017 09:17:33 GMT+0600 (Bangladesh Standard Time), Line 5, temperature reading35.61 C
+Wed Nov 15 2017 09:17:33 GMT+0600 (Bangladesh Standard Time), Line 65, accelorometer reading59.80 
+Wed Nov 15 2017 09:17:34 GMT+0600 (Bangladesh Standard Time), Line 3, accelorometer reading1.87 
+Wed Nov 15 2017 09:17:34 GMT+0600 (Bangladesh Standard Time), Line 2, humidity reding84.72 %
+Wed Nov 15 2017 09:17:34 GMT+0600 (Bangladesh Standard Time), Line 6, temperature reading33.17 C
+Wed Nov 15 2017 09:17:35 GMT+0600 (Bangladesh Standard Time), Line 44, humidity reding68.30 %
+Wed Nov 15 2017 09:17:35 GMT+0600 (Bangladesh Standard Time), Line 7, temperature reading42.72 C
+Wed Nov 15 2017 09:17:35 GMT+0600 (Bangladesh Standard Time), Line 66, accelorometer reading48.28 
+Wed Nov 15 2017 09:17:36 GMT+0600 (Bangladesh Standard Time), Line 4, accelorometer reading85.70 
+Wed Nov 15 2017 09:17:36 GMT+0600 (Bangladesh Standard Time), Line 8, temperature reading38.88 C
+Wed Nov 15 2017 09:17:37 GMT+0600 (Bangladesh Standard Time), Line 3, humidity reding69.80 %
+Wed Nov 15 2017 09:17:37 GMT+0600 (Bangladesh Standard Time), Line 9, temperature reading44.82 C
+Wed Nov 15 2017 09:17:37 GMT+0600 (Bangladesh Standard Time), Line 67, accelorometer reading90.84 
+Wed Nov 15 2017 09:17:38 GMT+0600 (Bangladesh Standard Time), Line 45, humidity reding75.26 %
+Wed Nov 15 2017 09:17:38 GMT+0600 (Bangladesh Standard Time), Line 5, accelorometer reading80.76 
+Wed Nov 15 2017 09:17:38 GMT+0600 (Bangladesh Standard Time), Line 10, temperature reading38.54 C
+Wed Nov 15 2017 09:17:39 GMT+0600 (Bangladesh Standard Time), Line 68, accelorometer reading43.44 
+Wed Nov 15 2017 09:17:39 GMT+0600 (Bangladesh Standard Time), Line 11, temperature reading33.30 C
+Wed Nov 15 2017 09:17:41 GMT+0600 (Bangladesh Standard Time), Line 46, humidity reding43.00 %
+Wed Nov 15 2017 09:17:41 GMT+0600 (Bangladesh Standard Time), Line 69, accelorometer reading67.36 
+Wed Nov 15 2017 09:17:43 GMT+0600 (Bangladesh Standard Time), Line 70, accelorometer reading78.13 
+Wed Nov 15 2017 09:17:44 GMT+0600 (Bangladesh Standard Time), Line 47, humidity reding72.88 %
+Wed Nov 15 2017 09:17:45 GMT+0600 (Bangladesh Standard Time), Line 71, accelorometer reading47.66 
+Wed Nov 15 2017 09:17:47 GMT+0600 (Bangladesh Standard Time), Line 48, humidity reding58.32 %
+Wed Nov 15 2017 09:17:47 GMT+0600 (Bangladesh Standard Time), Line 72, accelorometer reading14.53 
+Wed Nov 15 2017 09:17:49 GMT+0600 (Bangladesh Standard Time), Line 73, accelorometer reading84.97 
+Wed Nov 15 2017 09:17:50 GMT+0600 (Bangladesh Standard Time), Line 49, humidity reding55.29 %
+Wed Nov 15 2017 09:17:51 GMT+0600 (Bangladesh Standard Time), Line 74, accelorometer reading84.66 
+Wed Nov 15 2017 09:17:53 GMT+0600 (Bangladesh Standard Time), Line 50, humidity reding97.26 %
+Wed Nov 15 2017 09:17:53 GMT+0600 (Bangladesh Standard Time), Line 75, accelorometer reading3.92 
+Wed Nov 15 2017 09:17:55 GMT+0600 (Bangladesh Standard Time), Line 76, accelorometer reading56.61 
+Wed Nov 15 2017 09:17:56 GMT+0600 (Bangladesh Standard Time), Line 51, humidity reding52.18 %
+Wed Nov 15 2017 09:17:57 GMT+0600 (Bangladesh Standard Time), Line 77, accelorometer reading79.98 
+Wed Nov 15 2017 09:17:59 GMT+0600 (Bangladesh Standard Time), Line 52, humidity reding40.31 %
+Wed Nov 15 2017 09:17:59 GMT+0600 (Bangladesh Standard Time), Line 78, accelorometer reading20.64 
+Wed Nov 15 2017 09:18:00 GMT+0600 (Bangladesh Standard Time), Line 1, temperature reading 34.98 C
+Wed Nov 15 2017 09:18:01 GMT+0600 (Bangladesh Standard Time), Line 79, accelorometer reading 54.08 
+Wed Nov 15 2017 09:18:01 GMT+0600 (Bangladesh Standard Time), Line 1, accelorometer reading 68.46 
+Wed Nov 15 2017 09:18:01 GMT+0600 (Bangladesh Standard Time), Line 2, temperature reading 35.54 C
+Wed Nov 15 2017 09:18:02 GMT+0600 (Bangladesh Standard Time), Line 53, humidity reding 40.61 %
+Wed Nov 15 2017 09:18:02 GMT+0600 (Bangladesh Standard Time), Line 1, humidity reding 76.40 %
+Wed Nov 15 2017 09:18:02 GMT+0600 (Bangladesh Standard Time), Line 3, temperature reading 38.60 C
+Wed Nov 15 2017 09:18:03 GMT+0600 (Bangladesh Standard Time), Line 80, accelorometer reading 85.60 
+Wed Nov 15 2017 09:18:03 GMT+0600 (Bangladesh Standard Time), Line 2, accelorometer reading 72.97 
+Wed Nov 15 2017 09:18:03 GMT+0600 (Bangladesh Standard Time), Line 4, temperature reading 36.40 C
+Wed Nov 15 2017 09:18:04 GMT+0600 (Bangladesh Standard Time), Line 5, temperature reading 42.06 C
+Wed Nov 15 2017 09:18:05 GMT+0600 (Bangladesh Standard Time), Line 54, humidity reding 57.10 %
+Wed Nov 15 2017 09:18:05 GMT+0600 (Bangladesh Standard Time), Line 81, accelorometer reading 63.48 
+Wed Nov 15 2017 09:18:05 GMT+0600 (Bangladesh Standard Time), Line 2, humidity reding 59.14 %
+Wed Nov 15 2017 09:18:05 GMT+0600 (Bangladesh Standard Time), Line 3, accelorometer reading 39.44 
+Wed Nov 15 2017 09:18:05 GMT+0600 (Bangladesh Standard Time), Line 6, temperature reading 32.43 C
+Wed Nov 15 2017 09:18:06 GMT+0600 (Bangladesh Standard Time), Line 7, temperature reading 36.87 C
+Wed Nov 15 2017 09:18:07 GMT+0600 (Bangladesh Standard Time), Line 82, accelorometer reading 42.56 
+Wed Nov 15 2017 09:18:07 GMT+0600 (Bangladesh Standard Time), Line 4, accelorometer reading 1.75 
+Wed Nov 15 2017 09:18:07 GMT+0600 (Bangladesh Standard Time), Line 8, temperature reading 43.63 C
+Wed Nov 15 2017 09:18:08 GMT+0600 (Bangladesh Standard Time), Line 55, humidity reding 93.70 %
+Wed Nov 15 2017 09:18:08 GMT+0600 (Bangladesh Standard Time), Line 3, humidity reding 88.51 %
+Wed Nov 15 2017 09:18:08 GMT+0600 (Bangladesh Standard Time), Line 9, temperature reading 44.17 C
+Wed Nov 15 2017 09:18:09 GMT+0600 (Bangladesh Standard Time), Line 83, accelorometer reading 96.64 
+Wed Nov 15 2017 09:18:09 GMT+0600 (Bangladesh Standard Time), Line 5, accelorometer reading 47.29 
+Wed Nov 15 2017 09:18:09 GMT+0600 (Bangladesh Standard Time), Line 10, temperature reading 35.19 C
+Wed Nov 15 2017 09:18:10 GMT+0600 (Bangladesh Standard Time), Line 11, temperature reading 36.51 C
+Wed Nov 15 2017 09:18:11 GMT+0600 (Bangladesh Standard Time), Line 56, humidity reding 80.78 %
+Wed Nov 15 2017 09:18:11 GMT+0600 (Bangladesh Standard Time), Line 84, accelorometer reading 56.03 
+Wed Nov 15 2017 09:18:11 GMT+0600 (Bangladesh Standard Time), Line 4, humidity reding 94.45 %
+Wed Nov 15 2017 09:18:11 GMT+0600 (Bangladesh Standard Time), Line 6, accelorometer reading 78.53 
+Wed Nov 15 2017 09:18:11 GMT+0600 (Bangladesh Standard Time), Line 12, temperature reading 37.94 C
+Wed Nov 15 2017 09:18:12 GMT+0600 (Bangladesh Standard Time), Line 13, temperature reading 40.29 C
+Wed Nov 15 2017 09:18:13 GMT+0600 (Bangladesh Standard Time), Line 85, accelorometer reading 45.31 
+Wed Nov 15 2017 09:18:13 GMT+0600 (Bangladesh Standard Time), Line 7, accelorometer reading 33.85 
+Wed Nov 15 2017 09:18:13 GMT+0600 (Bangladesh Standard Time), Line 14, temperature reading 35.88 C
+Wed Nov 15 2017 09:18:14 GMT+0600 (Bangladesh Standard Time), Line 57, humidity reding 53.40 %
+Wed Nov 15 2017 09:18:14 GMT+0600 (Bangladesh Standard Time), Line 5, humidity reding 92.58 %
+Wed Nov 15 2017 09:18:14 GMT+0600 (Bangladesh Standard Time), Line 15, temperature reading 39.89 C
+Wed Nov 15 2017 09:18:15 GMT+0600 (Bangladesh Standard Time), Line 86, accelorometer reading 81.35 
+Wed Nov 15 2017 09:18:15 GMT+0600 (Bangladesh Standard Time), Line 8, accelorometer reading 17.97 
+Wed Nov 15 2017 09:18:15 GMT+0600 (Bangladesh Standard Time), Line 16, temperature reading 35.69 C
+Wed Nov 15 2017 09:18:16 GMT+0600 (Bangladesh Standard Time), Line 17, temperature reading 39.44 C
+Wed Nov 15 2017 09:18:17 GMT+0600 (Bangladesh Standard Time), Line 58, humidity reding 91.61 %
+Wed Nov 15 2017 09:18:17 GMT+0600 (Bangladesh Standard Time), Line 87, accelorometer reading 40.88 
+Wed Nov 15 2017 09:18:17 GMT+0600 (Bangladesh Standard Time), Line 6, humidity reding 99.85 %
+Wed Nov 15 2017 09:18:17 GMT+0600 (Bangladesh Standard Time), Line 9, accelorometer reading 92.04 
+Wed Nov 15 2017 09:18:17 GMT+0600 (Bangladesh Standard Time), Line 18, temperature reading 31.38 C
+Wed Nov 15 2017 09:18:18 GMT+0600 (Bangladesh Standard Time), Line 19, temperature reading 42.68 C
+Wed Nov 15 2017 09:18:19 GMT+0600 (Bangladesh Standard Time), Line 88, accelorometer reading 95.90 
+Wed Nov 15 2017 09:18:19 GMT+0600 (Bangladesh Standard Time), Line 10, accelorometer reading 95.85 
+Wed Nov 15 2017 09:18:19 GMT+0600 (Bangladesh Standard Time), Line 20, temperature reading 31.75 C
+Wed Nov 15 2017 09:18:20 GMT+0600 (Bangladesh Standard Time), Line 59, humidity reding 87.11 %
+Wed Nov 15 2017 09:18:20 GMT+0600 (Bangladesh Standard Time), Line 7, humidity reding 84.58 %
+Wed Nov 15 2017 09:18:20 GMT+0600 (Bangladesh Standard Time), Line 21, temperature reading 44.76 C
+Wed Nov 15 2017 09:18:21 GMT+0600 (Bangladesh Standard Time), Line 89, accelorometer reading 15.43 
+Wed Nov 15 2017 09:18:21 GMT+0600 (Bangladesh Standard Time), Line 11, accelorometer reading 17.12 
+Wed Nov 15 2017 09:18:21 GMT+0600 (Bangladesh Standard Time), Line 22, temperature reading 36.82 C
+Wed Nov 15 2017 09:18:22 GMT+0600 (Bangladesh Standard Time), Line 23, temperature reading 33.43 C
+Wed Nov 15 2017 09:18:23 GMT+0600 (Bangladesh Standard Time), Line 60, humidity reding 80.39 %
+Wed Nov 15 2017 09:18:23 GMT+0600 (Bangladesh Standard Time), Line 90, accelorometer reading 3.20 
+Wed Nov 15 2017 09:18:23 GMT+0600 (Bangladesh Standard Time), Line 8, humidity reding 81.35 %
+Wed Nov 15 2017 09:18:23 GMT+0600 (Bangladesh Standard Time), Line 12, accelorometer reading 14.33 
+Wed Nov 15 2017 09:18:23 GMT+0600 (Bangladesh Standard Time), Line 24, temperature reading 44.06 C
+Wed Nov 15 2017 09:18:24 GMT+0600 (Bangladesh Standard Time), Line 25, temperature reading 40.20 C
+Wed Nov 15 2017 09:18:25 GMT+0600 (Bangladesh Standard Time), Line 91, accelorometer reading 58.70 
+Wed Nov 15 2017 09:18:25 GMT+0600 (Bangladesh Standard Time), Line 13, accelorometer reading 25.28 
+Wed Nov 15 2017 09:18:25 GMT+0600 (Bangladesh Standard Time), Line 26, temperature reading 34.23 C
+Wed Nov 15 2017 09:18:26 GMT+0600 (Bangladesh Standard Time), Line 61, humidity reding 78.76 %
+Wed Nov 15 2017 09:18:26 GMT+0600 (Bangladesh Standard Time), Line 9, humidity reding 63.59 %
+Wed Nov 15 2017 09:18:26 GMT+0600 (Bangladesh Standard Time), Line 27, temperature reading 32.26 C
+Wed Nov 15 2017 09:18:27 GMT+0600 (Bangladesh Standard Time), Line 92, accelorometer reading 27.22 
+Wed Nov 15 2017 09:18:27 GMT+0600 (Bangladesh Standard Time), Line 14, accelorometer reading 73.77 
+Wed Nov 15 2017 09:18:27 GMT+0600 (Bangladesh Standard Time), Line 28, temperature reading 34.75 C
+Wed Nov 15 2017 09:18:28 GMT+0600 (Bangladesh Standard Time), Line 29, temperature reading 40.80 C
+Wed Nov 15 2017 09:18:29 GMT+0600 (Bangladesh Standard Time), Line 62, humidity reding 63.16 %
+Wed Nov 15 2017 09:18:29 GMT+0600 (Bangladesh Standard Time), Line 93, accelorometer reading 25.06 
+Wed Nov 15 2017 09:18:29 GMT+0600 (Bangladesh Standard Time), Line 10, humidity reding 72.72 %
+Wed Nov 15 2017 09:18:29 GMT+0600 (Bangladesh Standard Time), Line 15, accelorometer reading 31.74 
+Wed Nov 15 2017 09:18:29 GMT+0600 (Bangladesh Standard Time), Line 30, temperature reading 41.00 C
+Wed Nov 15 2017 09:18:30 GMT+0600 (Bangladesh Standard Time), Line 31, temperature reading 35.67 C
+Wed Nov 15 2017 09:18:31 GMT+0600 (Bangladesh Standard Time), Line 94, accelorometer reading 23.94 
+Wed Nov 15 2017 09:18:31 GMT+0600 (Bangladesh Standard Time), Line 16, accelorometer reading 88.36 
+Wed Nov 15 2017 09:18:31 GMT+0600 (Bangladesh Standard Time), Line 32, temperature reading 34.70 C
+Wed Nov 15 2017 09:18:32 GMT+0600 (Bangladesh Standard Time), Line 63, humidity reding 96.39 %
+Wed Nov 15 2017 09:18:32 GMT+0600 (Bangladesh Standard Time), Line 11, humidity reding 85.46 %
+Wed Nov 15 2017 09:18:32 GMT+0600 (Bangladesh Standard Time), Line 33, temperature reading 30.36 C
+Wed Nov 15 2017 09:18:33 GMT+0600 (Bangladesh Standard Time), Line 95, accelorometer reading 63.35 
+Wed Nov 15 2017 09:18:33 GMT+0600 (Bangladesh Standard Time), Line 17, accelorometer reading 20.28 
+Wed Nov 15 2017 09:18:33 GMT+0600 (Bangladesh Standard Time), Line 34, temperature reading 41.50 C
+Wed Nov 15 2017 09:18:34 GMT+0600 (Bangladesh Standard Time), Line 35, temperature reading 38.35 C
+Wed Nov 15 2017 09:18:35 GMT+0600 (Bangladesh Standard Time), Line 64, humidity reding 48.08 %
+Wed Nov 15 2017 09:18:35 GMT+0600 (Bangladesh Standard Time), Line 96, accelorometer reading 1.97 
+Wed Nov 15 2017 09:18:35 GMT+0600 (Bangladesh Standard Time), Line 12, humidity reding 98.10 %
+Wed Nov 15 2017 09:18:35 GMT+0600 (Bangladesh Standard Time), Line 18, accelorometer reading 72.44 
+Wed Nov 15 2017 09:18:35 GMT+0600 (Bangladesh Standard Time), Line 36, temperature reading 44.96 C
+Wed Nov 15 2017 09:18:36 GMT+0600 (Bangladesh Standard Time), Line 37, temperature reading 41.11 C
+Wed Nov 15 2017 09:18:37 GMT+0600 (Bangladesh Standard Time), Line 97, accelorometer reading 16.99 
+Wed Nov 15 2017 09:18:37 GMT+0600 (Bangladesh Standard Time), Line 19, accelorometer reading 75.76 
+Wed Nov 15 2017 09:18:37 GMT+0600 (Bangladesh Standard Time), Line 38, temperature reading 35.54 C
+Wed Nov 15 2017 09:18:38 GMT+0600 (Bangladesh Standard Time), Line 65, humidity reding 60.41 %
+Wed Nov 15 2017 09:18:38 GMT+0600 (Bangladesh Standard Time), Line 13, humidity reding 42.53 %
+Wed Nov 15 2017 09:18:38 GMT+0600 (Bangladesh Standard Time), Line 39, temperature reading 36.74 C
+Wed Nov 15 2017 09:18:39 GMT+0600 (Bangladesh Standard Time), Line 98, accelorometer reading 14.87 
+Wed Nov 15 2017 09:18:39 GMT+0600 (Bangladesh Standard Time), Line 20, accelorometer reading 50.75 
+Wed Nov 15 2017 09:18:39 GMT+0600 (Bangladesh Standard Time), Line 40, temperature reading 31.39 C
+Wed Nov 15 2017 09:18:40 GMT+0600 (Bangladesh Standard Time), Line 41, temperature reading 38.12 C
+Wed Nov 15 2017 09:18:41 GMT+0600 (Bangladesh Standard Time), Line 66, humidity reding 83.16 %
+Wed Nov 15 2017 09:18:41 GMT+0600 (Bangladesh Standard Time), Line 99, accelorometer reading 91.53 
+Wed Nov 15 2017 09:18:41 GMT+0600 (Bangladesh Standard Time), Line 14, humidity reding 53.94 %
+Wed Nov 15 2017 09:18:41 GMT+0600 (Bangladesh Standard Time), Line 21, accelorometer reading 39.60 
+Wed Nov 15 2017 09:18:41 GMT+0600 (Bangladesh Standard Time), Line 42, temperature reading 34.86 C
+Wed Nov 15 2017 09:18:42 GMT+0600 (Bangladesh Standard Time), Line 43, temperature reading 31.92 C
+Wed Nov 15 2017 09:18:43 GMT+0600 (Bangladesh Standard Time), 
+Wed Nov 15 2017 09:18:43 GMT+0600 (Bangladesh Standard Time), Line 22, accelorometer reading 82.77 
+Wed Nov 15 2017 09:18:43 GMT+0600 (Bangladesh Standard Time), Line 44, temperature reading 40.04 C
+Wed Nov 15 2017 09:18:44 GMT+0600 (Bangladesh Standard Time), Line 67, humidity reding 92.80 %
+Wed Nov 15 2017 09:18:44 GMT+0600 (Bangladesh Standard Time), Line 15, humidity reding 90.69 %
+Wed Nov 15 2017 09:18:44 GMT+0600 (Bangladesh Standard Time), Line 45, temperature reading 30.24 C
+Wed Nov 15 2017 09:18:45 GMT+0600 (Bangladesh Standard Time), Line 23, accelorometer reading 71.05 
+Wed Nov 15 2017 09:18:45 GMT+0600 (Bangladesh Standard Time), Line 46, temperature reading 36.44 C
+Wed Nov 15 2017 09:18:46 GMT+0600 (Bangladesh Standard Time), Line 47, temperature reading 34.03 C
+Wed Nov 15 2017 09:18:47 GMT+0600 (Bangladesh Standard Time), Line 68, humidity reding 50.30 %
+Wed Nov 15 2017 09:18:47 GMT+0600 (Bangladesh Standard Time), Line 16, humidity reding 62.72 %
+Wed Nov 15 2017 09:18:47 GMT+0600 (Bangladesh Standard Time), Line 24, accelorometer reading 54.92 
+Wed Nov 15 2017 09:18:47 GMT+0600 (Bangladesh Standard Time), Line 48, temperature reading 35.75 C
+Wed Nov 15 2017 09:18:48 GMT+0600 (Bangladesh Standard Time), Line 49, temperature reading 36.15 C
+Wed Nov 15 2017 09:18:49 GMT+0600 (Bangladesh Standard Time), Line 25, accelorometer reading 69.27 
+Wed Nov 15 2017 09:18:49 GMT+0600 (Bangladesh Standard Time), Line 50, temperature reading 32.12 C
+Wed Nov 15 2017 09:18:50 GMT+0600 (Bangladesh Standard Time), Line 69, humidity reding 76.74 %
+Wed Nov 15 2017 09:18:50 GMT+0600 (Bangladesh Standard Time), Line 17, humidity reding 41.49 %
+Wed Nov 15 2017 09:18:50 GMT+0600 (Bangladesh Standard Time), Line 51, temperature reading 43.56 C
+Wed Nov 15 2017 09:18:51 GMT+0600 (Bangladesh Standard Time), Line 26, accelorometer reading 48.82 
+Wed Nov 15 2017 09:18:51 GMT+0600 (Bangladesh Standard Time), Line 52, temperature reading 43.87 C
+Wed Nov 15 2017 09:18:52 GMT+0600 (Bangladesh Standard Time), Line 53, temperature reading 41.66 C
+Wed Nov 15 2017 09:18:53 GMT+0600 (Bangladesh Standard Time), Line 70, humidity reding 69.13 %
+Wed Nov 15 2017 09:18:53 GMT+0600 (Bangladesh Standard Time), Line 18, humidity reding 73.32 %
+Wed Nov 15 2017 09:18:53 GMT+0600 (Bangladesh Standard Time), Line 27, accelorometer reading 64.51 
+Wed Nov 15 2017 09:18:53 GMT+0600 (Bangladesh Standard Time), Line 54, temperature reading 31.75 C
+Wed Nov 15 2017 09:18:54 GMT+0600 (Bangladesh Standard Time), Line 55, temperature reading 44.27 C
+Wed Nov 15 2017 09:18:55 GMT+0600 (Bangladesh Standard Time), Line 28, accelorometer reading 79.93 
+Wed Nov 15 2017 09:18:55 GMT+0600 (Bangladesh Standard Time), Line 56, temperature reading 34.45 C
+Wed Nov 15 2017 09:18:56 GMT+0600 (Bangladesh Standard Time), Line 71, humidity reding 71.65 %
+Wed Nov 15 2017 09:18:56 GMT+0600 (Bangladesh Standard Time), Line 19, humidity reding 78.57 %
+Wed Nov 15 2017 09:18:56 GMT+0600 (Bangladesh Standard Time), Line 57, temperature reading 44.16 C
+Wed Nov 15 2017 09:18:57 GMT+0600 (Bangladesh Standard Time), Line 29, accelorometer reading 37.26 
+Wed Nov 15 2017 09:18:57 GMT+0600 (Bangladesh Standard Time), Line 58, temperature reading 34.96 C
+Wed Nov 15 2017 09:18:58 GMT+0600 (Bangladesh Standard Time), Line 59, temperature reading 42.42 C
+Wed Nov 15 2017 09:18:59 GMT+0600 (Bangladesh Standard Time), Line 72, humidity reding 79.24 %
+Wed Nov 15 2017 09:18:59 GMT+0600 (Bangladesh Standard Time), Line 20, humidity reding 83.56 %
+Wed Nov 15 2017 09:18:59 GMT+0600 (Bangladesh Standard Time), Line 30, accelorometer reading 1.95 
+Wed Nov 15 2017 09:18:59 GMT+0600 (Bangladesh Standard Time), Line 60, temperature reading 43.84 C
+Wed Nov 15 2017 09:19:00 GMT+0600 (Bangladesh Standard Time), Line 61, temperature reading 39.56 C
+Wed Nov 15 2017 09:19:01 GMT+0600 (Bangladesh Standard Time), Line 31, accelorometer reading 81.49 
+Wed Nov 15 2017 09:19:01 GMT+0600 (Bangladesh Standard Time), Line 62, temperature reading 44.00 C
+Wed Nov 15 2017 09:19:02 GMT+0600 (Bangladesh Standard Time), Line 73, humidity reding 58.97 %
+Wed Nov 15 2017 09:19:02 GMT+0600 (Bangladesh Standard Time), Line 21, humidity reding 86.28 %
+Wed Nov 15 2017 09:19:02 GMT+0600 (Bangladesh Standard Time), Line 63, temperature reading 41.49 C
+Wed Nov 15 2017 09:19:03 GMT+0600 (Bangladesh Standard Time), Line 32, accelorometer reading 6.79 
+Wed Nov 15 2017 09:19:03 GMT+0600 (Bangladesh Standard Time), Line 64, temperature reading 37.55 C
+Wed Nov 15 2017 09:19:04 GMT+0600 (Bangladesh Standard Time), Line 65, temperature reading 30.27 C
+Wed Nov 15 2017 09:19:05 GMT+0600 (Bangladesh Standard Time), Line 74, humidity reding 75.47 %
+Wed Nov 15 2017 09:19:05 GMT+0600 (Bangladesh Standard Time), Line 22, humidity reding 76.89 %
+Wed Nov 15 2017 09:19:05 GMT+0600 (Bangladesh Standard Time), Line 33, accelorometer reading 70.55 
+Wed Nov 15 2017 09:19:05 GMT+0600 (Bangladesh Standard Time), Line 66, temperature reading 33.52 C
+Wed Nov 15 2017 09:19:06 GMT+0600 (Bangladesh Standard Time), Line 67, temperature reading 30.61 C
+Wed Nov 15 2017 09:19:07 GMT+0600 (Bangladesh Standard Time), Line 34, accelorometer reading 58.94 
+Wed Nov 15 2017 09:19:07 GMT+0600 (Bangladesh Standard Time), Line 68, temperature reading 38.40 C
+Wed Nov 15 2017 09:19:08 GMT+0600 (Bangladesh Standard Time), Line 75, humidity reding 72.61 %
+Wed Nov 15 2017 09:19:08 GMT+0600 (Bangladesh Standard Time), Line 23, humidity reding 95.13 %
+Wed Nov 15 2017 09:19:08 GMT+0600 (Bangladesh Standard Time), Line 69, temperature reading 41.74 C
+Wed Nov 15 2017 09:19:09 GMT+0600 (Bangladesh Standard Time), Line 35, accelorometer reading 89.63 
+Wed Nov 15 2017 09:19:09 GMT+0600 (Bangladesh Standard Time), Line 70, temperature reading 30.63 C
+Wed Nov 15 2017 09:19:11 GMT+0600 (Bangladesh Standard Time), Line 76, humidity reding 75.48 %
+Wed Nov 15 2017 09:19:14 GMT+0600 (Bangladesh Standard Time), Line 77, humidity reding 96.61 %
+Wed Nov 15 2017 09:19:15 GMT+0600 (Bangladesh Standard Time), Line 1, temperature reading 39.22 C
+Wed Nov 15 2017 09:19:16 GMT+0600 (Bangladesh Standard Time), Line 1, accelerometer reading 63.34 
+Wed Nov 15 2017 09:19:16 GMT+0600 (Bangladesh Standard Time), Line 2, temperature reading 40.51 C
+Wed Nov 15 2017 09:19:17 GMT+0600 (Bangladesh Standard Time), Line 78, humidity reding 67.21 %
+Wed Nov 15 2017 09:19:17 GMT+0600 (Bangladesh Standard Time), Line 1, humidity reding 69.41 %
+Wed Nov 15 2017 09:19:17 GMT+0600 (Bangladesh Standard Time), Line 3, temperature reading 43.47 C
+Wed Nov 15 2017 09:19:18 GMT+0600 (Bangladesh Standard Time), Line 2, accelerometer reading 93.83 
+Wed Nov 15 2017 09:19:18 GMT+0600 (Bangladesh Standard Time), Line 4, temperature reading 39.83 C
+Wed Nov 15 2017 09:19:19 GMT+0600 (Bangladesh Standard Time), Line 5, temperature reading 35.54 C
+Wed Nov 15 2017 09:19:20 GMT+0600 (Bangladesh Standard Time), Line 79, humidity reding 45.72 %
+Wed Nov 15 2017 09:19:23 GMT+0600 (Bangladesh Standard Time), Line 80, humidity reding 41.46 %
+Wed Nov 15 2017 09:19:26 GMT+0600 (Bangladesh Standard Time), Line 81, humidity reding 95.54 %
+Wed Nov 15 2017 09:19:29 GMT+0600 (Bangladesh Standard Time), Line 82, humidity reding 47.14 %
+Wed Nov 15 2017 09:19:32 GMT+0600 (Bangladesh Standard Time), Line 83, humidity reding 92.15 %
+Wed Nov 15 2017 09:19:35 GMT+0600 (Bangladesh Standard Time), Line 84, humidity reding 54.01 %
+Wed Nov 15 2017 09:19:38 GMT+0600 (Bangladesh Standard Time), Line 85, humidity reding 94.91 %
+Wed Nov 15 2017 09:19:41 GMT+0600 (Bangladesh Standard Time), Line 86, humidity reding 72.38 %
+Wed Nov 15 2017 09:19:44 GMT+0600 (Bangladesh Standard Time), Line 87, humidity reding 55.24 %
+Wed Nov 15 2017 09:19:47 GMT+0600 (Bangladesh Standard Time), Line 88, humidity reding 51.44 %
+Wed Nov 15 2017 09:19:50 GMT+0600 (Bangladesh Standard Time), Line 89, humidity reding 55.13 %
+Wed Nov 15 2017 09:19:53 GMT+0600 (Bangladesh Standard Time), Line 90, humidity reding 76.77 %
+Wed Nov 15 2017 09:19:56 GMT+0600 (Bangladesh Standard Time), Line 91, humidity reding 52.71 %
+Wed Nov 15 2017 09:19:59 GMT+0600 (Bangladesh Standard Time), Line 92, humidity reding 87.64 %
+Wed Nov 15 2017 09:20:02 GMT+0600 (Bangladesh Standard Time), Line 93, humidity reding 46.46 %
+Wed Nov 15 2017 09:20:05 GMT+0600 (Bangladesh Standard Time), Line 94, humidity reding 82.95 %
+Wed Nov 15 2017 09:20:08 GMT+0600 (Bangladesh Standard Time), Line 95, humidity reding 49.77 %
+Wed Nov 15 2017 09:20:11 GMT+0600 (Bangladesh Standard Time), Line 96, humidity reding 75.19 %
+Wed Nov 15 2017 09:20:14 GMT+0600 (Bangladesh Standard Time), Line 97, humidity reding 47.25 %
+Wed Nov 15 2017 09:20:17 GMT+0600 (Bangladesh Standard Time), Line 98, humidity reding 43.41 %
