@@ -1,0 +1,65 @@
+*{margin: 0; padding: 0;}
+#brand h2{text-align: center; 
+	      padding: 20px; 
+	      font-size:35px;} 
+
+.welcome_section {background: #0EA62C; 
+	  			  text-align: center; 
+	  			  padding: 138px; 
+				  border: solid 10px black; 
+				  font-size: 35px; color: #fff; }
+
+.welcome_section span{color : #f1c40f;}
+
+.welcome_section h2{font-size: 80px;}
+
+.welcome_section h3{font-size: 25px; 
+	               margin-bottom: 30px}
+
+.button {color: #fff; 
+	     text-decoration: none; 
+	     border: solid 5px #fff; 
+	     padding: 15px; 
+	     border-radius: 40px;}
+.button:hover {background-color: #fff; 
+	           color: #0EA62C; 
+	           border: solid 5px #f1c40f;}
+/*.info_section{background: #ff0; height: 300px; overflow:hidden;}
+.infobox{background: #f00; height: 200px; width: 450px; margin:25px; padding: 20px; }*/
+.info_section{background: url(images/aboutBg.jpg) no-repeat ;
+			  padding: 100px;
+			  background-size: cover; 
+			  background-position: center; 
+			  background-attachment: fixed;}
+.info_section p{color: #fff; 
+	            background : #0ea62c30 ; 
+	            font-size: 25px; 
+	            padding: 70px;
+				border: 1px solid #0EA62C; 
+				border-radius: 80px; 
+				text-align: justify; }
+
+.infobox{background: #ff0; 
+			  height: 580px; 
+			  overflow:hidden;}
+
+.header{text-align: center;
+		height: 30px;
+		padding: 30px}
+
+.main{height: 550px;
+	  width: 2500px;}
+
+.left_side{float: left;
+		   background: url(images/service.png) no-repeat ;
+		   height: 550px;
+		   width: 800px;}
+
+.right_side{float: right;
+		    height: 550px;
+		    width: 1700px;
+		    font-size: 40px;
+		    margin-top: 50px;}
+
+
+

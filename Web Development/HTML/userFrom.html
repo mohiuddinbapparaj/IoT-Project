@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>User</title>
+</head>
+<body>
+	<center><h1>User Information From</h1></center>
+	<form action="Information.php" method="post">
+		User Name : <input type="text" name="username" placeholder="Username"/> <br /> <br />
+		Password : <input type="password" name="password" placeholder="Password"/> <br /> <br />
+		Email : <input type="email" name="usermail" placeholder="E-mail"/> <br /> <br />
+		Gender
+		<input type="radio" name="gender" value="male" />Male
+		<input type="radio" name="gender" value="female" checked=" " />Female
+		<input type="radio" name="gender" value="other" />Others<br /> <br />
+		<input type="checkbox" name="vehicle" value="Bike"> I have a bike<br> <br>
+        <input type="checkbox" name="vehicle" value="Car" checked> I have a car<br> <br>
+		<select name="Division">
+			<option>Dhaka</option>
+			<option>Chittagong</option>
+			<option selected>Khulna</option>
+			<option>Rajshahi</option>
+		</select><br /> <br />
+		<textarea name="address" rows="10" cols="40" placeholder="Address"></textarea> <br /> <br />
+
+		<input type="submit" name="submit">
+	
+	</form>
+</body>
+</html>
